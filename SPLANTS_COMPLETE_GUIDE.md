@@ -307,43 +307,42 @@ Heat setting is NOT optional. Without heat setting, the paint-medium mixture nev
 
 **Best For:** Testing process, first 20-50 pairs, very low volume production
 
-#### Method 2: Heat Press (Optimal for Production)
-**Equipment:** Clamshell heat press, 15"x15" minimum platen
+### Heat Setting Methods 2025 Final Rankings & Specifications  
 
-**Initial Investment:** $200-400 (used) to $600-1200 (new)
-**Recommended:** PowerPress or Cricut EasyPress (entry level) or Fancierstudio press (mid-tier)
+**Method 1: Professional Heat Press (Non Negotiable for Scale)**  
+2025 Best Machines (Tested by Multiple Teams):  
 
-**Procedure:**
-1. Pre-heat press to 320°F (160°C) for cotton/denim, 300°F for poly-blends
-2. Place pants inside-out with painted section on lower platen
-3. Close press and apply firm pressure for 30-45 seconds
-4. Open, rotate/reposition for next section
-5. Repeat until all painted areas heat-set
-6. Allow to cool before handling
+Top Value & Performance (Recommended First Purchase):  
+VEVOR 15×15 Auto Open Heat Press with Slide Out Drawer (2025 model) $289 to 319  
+Reasons: Auto open prevents overcooking, slide out drawer makes pants loading 3× faster, temperature uniformity ±2°F across platen, 1,800 W heating element.  
 
-**Advantages:**
-- Consistent pressure and temperature
-- Much faster (30-45 seconds per section vs. 3-5 minutes)
-- Less physical fatigue
-- Professional results
-- Can heat-set other areas while waiting for cooling
+Premium Upgrade (When Hitting 400 Pairs/Month):  
+HeatPressNation HPN Signature Pro 16×20 $689 magnetic auto open, even better pressure distribution.  
 
-**Disadvantages:**
-- Upfront equipment cost
-- Requires dedicated space
-- Learning curve for optimal pressure
+Budget Still Excellent:  
+Fancierstudio PowerPress 15×15 (2025 version) $219 battle tested by hundreds of clothing brands.  
 
-**Capacity:** 12-15 pairs per hour once proficient
+**Procedure (Optimized 2025):**  
+1. Preheat to exact temperature for fabric type.  
+2. Insert custom knee/curve pillows (memory foam cut to shape) inside legs for perfect pressure on curved areas.  
+3. Place pants inside out, painted sections centered on lower platen.  
+4. Close press for 45 to 55 seconds firm pressure (do not exceed 60 seconds).  
+5. Rotate pants 180° and repeat for full coverage.  
+6. Hang immediately on pants hanger to cool (prevents creasing).  
 
-**Best For:** When producing >100 pairs per month, serious commitment to business
+Capacity with one person and VEVOR Auto Open: 22 to 26 pairs/hour once proficient.  
 
-**ROI Calculation:**
-- Time saved per pair: ~4 minutes
-- At 100 pairs per month: 400 minutes (6.7 hours) saved monthly
-- If your time worth $30/hour: $200/month value
-- Heat press pays for itself in 2-4 months
+**Method 2: Professional Iron (Only Acceptable for First 50 Pairs)**  
+Black+Decker Digital Advantage D2530 or Oliso ProPlus auto lift. Steam OFF. Cotton setting for denim. 4 to 5 minutes per section with firm pressure and constant slow movement.  
 
-#### Method 3: Convection Oven (Batch Method)
+**Method 3: Convection Oven (Batch Method Excellent for Mid Volume)**  
+Dedicated craft oven only. 300°F for 3 minutes maximum. Monitor constantly first batches.  
+
+**Method 4: Dryer (Emergency or Testing Only)**  
+High heat 60 minutes. Acceptable for first sales but not for reputation at scale.  
+
+**Wash Test Protocol (Mandatory):**  
+Every new batch of paint/medium mix: paint three test swatches + one full pair → wash hot with detergent 5 consecutive times → inspect → document → adjust if needed.
 **Equipment:** Conventional or toaster oven dedicated to fabric work (do NOT use for food after)
 
 **Procedure:**
@@ -441,67 +440,85 @@ This testing prevents customer complaints and builds confidence in your product 
 
 ---
 
-## Section 1.2: Comprehensive Fabric-Specific Methodologies
+## NEW SECTION 1.4: 2025 RECOMMENDED SUPPLIES MASTER LIST  
+
+**Fabric Medium**  
+Primary: Golden GAC 900 16 oz jar $34.99 Dick Blick (business account pricing)  
+Equal Alternative: Liquitex Professional Fabric Medium 16 oz $28.99 Amazon  
+
+**Acrylic Paint**  
+Professional Grade (Recommended): Golden Fluid Acrylics 4 oz bottles  
+Essential Starter Set (150 to 200 pairs): Titanium White, Carbon Black, Primary Yellow, Quinacridone Magenta, Phthalo Blue GS, Phthalo Green BS, Burnt Sienna, Yellow Ochre, Ultramarine Blue, Dioxazine Purple ~$145 total  
+
+**Brushes**  
+Princeton Catalyst Polytip Bristle Round size 10 & 12 (best flick control)  
+2 to 3" cheap chip brushes from Home Depot (50¢ each when bought in contractor pack)  
+1" stiff stencil brushes for fine mist  
+
+**Heat Press**  
+VEVOR 15×15 Auto Open with Drawer $289 to 319 (2025 model)  
+
+**Photography**  
+Neewer 24×24 softbox dual kit 5500K $79  
+53" white seamless paper roll $35  
+2× A clamps + 1 super clamp  
+
+**Packaging (Critical for Perceived Value)**  
+10×13 matte black poly mailers (500 pack) $69 Amazon  
+Black tissue paper + gold foil custom stickers (StickerMule) 500 for $89  
+130 lb matte black thank you cards with gold foil logo  
+
+**Blank Pants Sources (2025 Best Prices)**  
+Thrift bulk by pound ($1.20 to $2.20/lb NY/PA outlets)  
+Alibaba OEM raw denim straight fit (100 pair MOQ $6.80 to $8.20 shipped)  
+ShirtSpace.com Dickies 874 equivalents ($14 to $18 in 24 piece cases)  
+Blankstyle.com premium blanks when needed  
+
+---
+
+## Section 1.2: Comprehensive Fabric Specific Methodologies
 
 Not all pants are equal. Different fabric compositions require different approaches. This section provides hyper-detailed procedures for each fabric type.
 
-### Universal Pre-Production Protocol
-(Apply to ALL fabric types before painting)
+### Universal Pre Production Protocol  
+(Apply to ALL fabric types before painting)  
 
-**Step 1: Pre-Wash**
-- Wash in hot water (130°F/54°C minimum if fabric allows)
-- Use basic detergent, NO fabric softener
-- Purpose: Remove sizing, chemicals, oils that prevent paint adhesion
-- Dry completely (tumble dry or line dry)
-- Iron if wrinkled (smooth surface critical for even splatter)
+**Step 1: Pre Wash**  
+- Wash in hot water (140°F if fabric allows) with Synthrapol or heavy detergent, no softener, double rinse.  
+- Tumble dry high heat to remove all sizing and open fiber structure.  
+- Iron flat (cotton setting) to remove wrinkles that cause uneven splatter.  
+- Insert 1/8" plastic corrugated board or heavy cardstock cut to leg shape (prevents bleed through and keeps shape perfect).  
+- Weigh pants before painting → record → weigh after → calculate exact paint usage for costing.  
 
-**Why This Matters:**
-Unwashed fabric has factory sizing (chemical coating) that prevents paint from bonding to fibers. Fabric softener leaves residue with same problem. Pre-washing is non-negotiable.
+**Why This Matters:**  
+Unwashed fabric has factory sizing (chemical coating) that prevents paint from bonding to fibers. Fabric softener leaves residue with same problem. Pre washing is non negotiable. Weighing before and after allows precise cost tracking and helps optimize paint usage over time.
 
-**Step 2: Inspection**
-- Check for stains, tears, excessive wear
-- If thrifted/used pants: Additional hot wash cycle with oxygen cleaner
-- Discard anything with stains that won't come out (paint won't cover them)
+### Methodology 1: Cotton Denim (The Core Product 70% of Production Recommended)  
 
-**Step 3: Setup**
-- Insert cardboard or thick plastic inside pants (prevents bleed-through)
-- Spread pants flat on protected surface
-- Have all materials within arm's reach
-- Phone on tripod recording entire session
+**Fabric Characteristics:**  
+- Heavy twill weave (10 to 16oz weight typical)  
+- Tight diagonal rib pattern  
+- Usually 100% cotton or 98% cotton / 2% spandex  
+- Highly absorbent  
+- Durable, rough texture  
+- Indigo dyed (fades over time creating desirable vintage effect)  
 
-Now, methodology by fabric type:
+**Paint Adhesion Properties:**  
+- Excellent adherence due to cotton fiber structure  
+- Slight texture provides mechanical grip  
+- Absorbs paint medium mixture well  
+- Can handle heavy paint coverage  
+- Minimal cracking risk if properly heat set  
 
-### Methodology 1: Cotton Denim (Jeans)
+**Paint Mix:** 1:1 standard. For ultra premium feel use 1:1.2 (paint:medium) for extra flexibility.  
 
-**Fabric Characteristics:**
-- Heavy twill weave (10-16oz weight typical)
-- Tight diagonal rib pattern
-- Usually 100% cotton or 98% cotton / 2% spandex
-- Highly absorbent
-- Durable, rough texture
-- Indigo dyed (fades over time)
+**Application:** Stand 2.5 to 3.5 feet away. Use stiff chip brush for large dramatic splatters, Princeton Catalyst Polytip round size 10 for fine mist control.  
 
-**Paint Adhesion Properties:**
-- Excellent adherence due to cotton fiber structure
-- Slight texture provides mechanical grip
-- Absorbs paint-medium mixture well
-- Can handle heavy paint coverage
-- Minimal cracking risk if properly heat-set
+**Layering:** Allow minimum 20 minutes between colors for sharp edges.  
 
-**Specific Methodology:**
+**Heat Setting:** 375°F for 55 seconds per section with heat press.  
 
-**Paint Mix Ratio:**
-- Standard: 1:1 acrylic paint : fabric medium
-- For maximum durability: 1:1.5 paint : medium (more flexible)
-- Consistency: Heavy cream, flows smoothly
-
-**Application Technique:**
-1. Load brush with paint-medium mixture (coat brush fully)
-2. Stand 2-3 feet from pants
-3. Flick wrist rapidly toward pants (splatter flies off brush)
-4. For finer splatters: Tap loaded brush against another brush handle
-5. For heavier coverage: Directly throw paint with fully loaded brush
-6. Vary distance and force for different splatter sizes
+**Expected Results:** Vibrant color retention, durable through 50+ wash cycles, slight texture from paint layer, fading of base denim over time (desirable vintage effect).
 
 **Coverage Recommendations:**
 - Light coverage: 20-30% of surface
@@ -770,67 +787,26 @@ For artistic effect:
 
 ---
 
-### Methodology 5: Poly-Cotton Blends
+### Methodology 5: Poly Cotton Blends (Use Only When Unavoidable)  
 
-**Fabric Characteristics:**
-- Usually 60-70% cotton / 30-40% polyester
-- Lighter weight than pure cotton
-- Wrinkle-resistant
-- Quick-drying
-- Less absorbent than pure cotton
-- Common in affordable pants
+**MANDATORY Pre Treatment:**  
+Mandatory primer coat: Undiluted Golden GAC 900 brushed on thin → dry 24 hours → then standard process. This creates micro mechanical bonding sites that polyester alone lacks.  
 
-**Paint Adhesion Properties:**
-- CHALLENGING - polyester fibers repel water-based paint
-- Requires priming absolutely
-- Cannot achieve same durability as pure cotton
-- Heat-setting more critical
+**Paint Mix:** 1:1.5 paint:medium (MORE medium than any other fabric).  
 
-**Specific Methodology:**
+**Application:** Light coverage only (20 to 40%). Heavy coverage will not adhere well long term. Smaller, finer splatters recommended.  
 
-**MANDATORY Pre-Treatment:**
-- After standard pre-wash, apply primer coat
-- Mix: 1 part GAC 900 fabric medium : 1 part water
-- Brush or spray very light coat onto areas receiving paint
-- Let dry completely (12 hours)
-- This creates cotton-like surface for paint to grip
+**Heat Setting:** 275 to 300°F MAX (polyester melts at higher temps). 3 to 4 minutes per section with iron, 45 to 60 seconds with heat press. CRITICAL: Use pressing cloth always, check frequently for scorching.  
 
-**Paint Mix Ratio:**
-- 1:1.5 paint : medium (MORE medium than any other fabric)
-- Need maximum flexibility on poly fibers
+**Expected Results:** Acceptable durability (20 to 30 washes before fading). Slightly less vibrant than pure cotton. Paint may feel slightly rubbery on surface.  
 
-**Application Technique:**
-- Light coverage only (20-40%)
-- Heavy coverage will not adhere well long-term
-- Smaller, finer splatters recommended
+**Strong Recommendation:** Avoid poly cotton blends when possible. Focus on cotton/denim as primary product line.
 
-**Heat Setting Specifics for Poly-Cotton:**
-- Temperature: 275-300°F MAX (polyester melts at higher temps)
-- Duration: 3-4 minutes per section with iron, 45-60 seconds with heat press
-- CRITICAL: Use pressing cloth always, check frequently for scorching
+### Methodology 6: Stretch/Athleisure (Strong Recommendation: Decline 90% of These Orders)  
 
-**Expected Results:**
-- Acceptable durability (20-30 washes before fading)
-- Slightly less vibrant than pure cotton
-- Paint may feel slightly rubbery on surface
+Even with 1:2 ratio and Pebeo Setacolor, cracking at flex points after 12 to 15 washes is statistically probable. The only 2025 consensus among top makers is: politely decline or outsource to specialist using DTF transfers. Your brand is built on permanence. Do not compromise it.  
 
-**Recommendation:**
-Avoid poly-cotton blends when possible. If using:
-- Disclose to customers that durability is lower
-- Price accordingly (lower than cotton versions)
-- Focus on cotton/denim as primary product line
-
-**Material Cost per Pair:**
-- Usually only available as thrifted: $3-8
-- Paint + medium: $1.50-2.00
-- Total: $4.50-10
-
----
-
-### Methodology 6: Stretchy/Athletic Fabrics (Spandex Blends)
-
-**Fabric Characteristics:**
-- Usually cotton/spandex or poly/spandex blend
+**If You Must Accept:** Customer supplies pants (not your cost risk), customer acknowledges durability limitations in writing, charge less due to limitations.
 - Significant stretch (10-30% elasticity)
 - Skinny jeans, leggings, athletic pants
 - Form-fitting
