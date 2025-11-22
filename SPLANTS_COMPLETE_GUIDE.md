@@ -217,13 +217,15 @@ Large batch mixing (recommended for consistency): 16 oz paint + 16 oz medium = e
 ### Heat Setting Science Deep Dive  
 Heat setting is not optional. It is the chemical reaction that transforms temporary adhesion into permanent integration.  
 
-Temperature triggers cross linking of polymer chains with cotton cellulose. Below 275°F this reaction does not occur. Above fabric specific maximum, you scorch or melt.  
+Temperature triggers cross linking of polymer chains with cotton cellulose. This is a thermochemical process where heat energy breaks temporary hydrogen bonds and forms new covalent bonds between the acrylic polymer and cellulose fiber structure. Below 275°F, insufficient energy exists for this reaction to occur. Above fabric specific maximum temperatures, you risk scorching natural fibers or melting synthetic fibers, which destroys the substrate itself.
+
+The science behind this is straightforward: acrylic polymers in fabric medium exist as long molecular chains. When heated to the activation temperature range, these chains become mobile enough to penetrate between cotton cellulose fibers. As the fabric cools, these interpenetrating polymer networks lock into place, creating a mechanical and chemical bond that is permanent. This is why properly heat set paint does not wash out, while paint that is merely air dried will eventually degrade.
 
 **2025 Precise Temperature Windows:**  
-- 100% Cotton / Denim / Canvas: 350 to 390°F optimal (400°F maximum 90 seconds)  
-- Cotton rich with <5% spandex: 320 to 350°F  
-- Cotton/poly blends: 285 to 310°F maximum  
-- High spandex/athleisure: 250 to 275°F maximum (iron only, no heat press pressure)
+- 100% Cotton / Denim / Canvas: 350 to 390°F optimal (400°F absolute maximum for 90 seconds)  
+- Cotton rich with under 5% spandex: 320 to 350°F  
+- Cotton poly blends: 285 to 310°F maximum  
+- High spandex or athleisure fabrics: 250 to 275°F maximum (iron only, never use heat press pressure on high stretch fabrics)
 **Cost:** ~$20 for 16oz (treats 32oz of paint, enough for 100-150 pairs)
 **Alternative:** Liquitex Fabric Medium, DecoArt Fabric Medium (acceptable quality, slightly lower performance)
 
