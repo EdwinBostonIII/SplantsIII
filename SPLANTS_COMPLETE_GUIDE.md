@@ -59,18 +59,6 @@ When you reach one thousand documented unique pieces, no competitor with ten mil
 **Failure Mode Expanded:**
 Creating "similar" pairs without this level of documentation immediately commoditizes the product. You enter a race to the bottom on price against AliExpress dropshippers. Within six months you are selling at $79 to compete and hating every minute. The archive is the difference between a business and a legacy.
 
-> **[VISUAL AID SPECIFICATION: THE ARCHIVE FLYWHEEL]**
-> **Type:** Circular Flow Diagram
-> **Center:** "The Archive (Asset Value)"
-> **Outer Ring (Clockwise Flow):**
-> 1. **Create:** Unique Pair Produced
-> 2. **Document:** High Res Photos + ID Tag
-> 3. **Publish:** Upload to Gallery
-> 4. **Sell:** Customer Buys Ownership
-> 5. **Scarcity:** Sold Item Marked "Unavailable"
-> 6. **Demand:** New Customers See Sold History
-> **Visual Style:** Clean, technical lines. Arrows connecting steps. The "Archive" center should appear heavy and permanent, like a vault.
-
 ### Law 2: The Law of Compound Documentation  
 
 Every action must produce a permanent, searchable, reusable artifact. Every splatter session filmed in 4K. Every customer message screenshotted and logged. Every pricing experiment recorded with hypothesis, result, and next action.  
@@ -168,18 +156,6 @@ Marketing Channels (2025 weights):
 
 Coordination happens through environmental signals, not messages or meetings. The workspace itself must communicate what needs doing next.
 
-> **[VISUAL AID SPECIFICATION: THE PRODUCTION FLOW MAP]**
-> **Type:** Floor Plan / Flow Chart
-> **Layout:** Linear or U Shaped flow to prevent backtracking.
-> **Station 1 (Dirty):** Intake Bin -> Washer -> Dryer.
-> **Station 2 (Prep):** Ironing Board (Flattening) -> Cardboard Insert Table.
-> **Station 3 (Creation):** The Paint Table (6ft x 3ft). Splash guards on 3 sides.
-> **Station 4 (Cure):** Drying Racks (The Cathedral). Must be away from dust.
-> **Station 5 (Finish):** Heat Press Station -> Quality Check Light.
-> **Station 6 (Digital):** Photography Wall -> Computer Desk.
-> **Station 7 (Exit):** Shipping Table -> Outbound Bin.
-> **Visual Note:** Use arrows to show the "One Way Street" rule. Pants never move backward.
-
 **2025 Physical Workspace Layout (Proven Optimal):**
 Zone 1: Pre wash station (washing machine + drying rack) → Empty rack signals "need more blanks prepped"  
 Zone 2: Painting station (6 ft table with splash walls) → Empty table signals "ready for next batch"  
@@ -230,12 +206,6 @@ This formula works because fabric medium contains specialized acrylic copolymers
 
 **Important Note:** Research indicates that Golden GAC 900 requires heat setting for optimal durability, while Liquitex Professional Fabric Medium performs well without heat setting, though heat setting still improves results. For maximum durability and professional quality, heat setting is recommended regardless of medium choice.
 
-> **[VISUAL AID SPECIFICATION: THE PERFECT CONSISTENCY]**
-> **Type:** Split Screen Comparison Photo/Illustration
-> **Left Side (Correct):** A spoon lifting the paint mixture. The liquid flows in a continuous, smooth stream like warm honey or heavy cream. It forms a small, soft mound in the bowl that takes 2 seconds to settle flat. Label: "1:1 Ratio - Optimal Bond."
-> **Right Side (Incorrect - Too Thin):** Liquid runs off spoon like water, splashing into the bowl. Label: "Too Watery - Will Bleed."
-> **Right Side (Incorrect - Too Thick):** Paint plops off spoon in chunks. It sits on surface without settling. Label: "Too Thick - Will Crack."
-
 ### Precise Mixing Protocol (2025 Optimized)  
 
 1. **Pour exact volume acrylic paint into squeeze bottle using measuring cup.** Precision matters here because even a 10% deviation in ratio affects both color intensity and flexibility. Use glass or plastic measuring cups with clear volume markings. Pour slowly to avoid air incorporation.  
@@ -264,18 +234,6 @@ The science behind this is straightforward: acrylic polymers in fabric medium ex
 - Cotton rich with under 5% spandex: 320 to 350°F
 - Cotton poly blends: 285 to 310°F maximum
 - High spandex or athleisure fabrics: 250 to 275°F maximum (iron only, never use heat press pressure on high stretch fabrics)
-
-> **[VISUAL AID SPECIFICATION: THE HEAT SETTING SANDWICH]**
-> **Type:** Cross Section Diagram
-> **Purpose:** To show correct layering for heat press protection.
-> **Layers (Bottom to Top):**
-> 1. **Base:** Heat Press Lower Platen (Rubber Pad)
-> 2. **Layer 1:** Teflon Sheet (Protects machine)
-> 3. **Layer 2:** The Pant Leg (Inside Out)
-> 4. **Layer 3:** Cardboard/Pillow Insert (Inside the leg to prevent seam impressions)
-> 5. **Layer 4:** Teflon Sheet (Protects upper heat plate)
-> 6. **Top:** Heat Press Upper Platen (Heat Source)
-> **Note:** Arrows indicating "Pressure" coming down and "Heat" radiating through.
 
 **Economics of Medium Usage:**
 Cost approximately $20 for 16oz medium, which treats 32oz of paint. This volume produces enough mixture for 100 to 150 pairs depending on coverage density. When calculated per pair, fabric medium adds only $0.13 to $0.20 to material cost. This is negligible compared to the value it provides in durability and professional finish. Alternative mediums (Liquitex, DecoArt) offer acceptable quality at slightly lower performance, suitable for learning phase before committing to premium materials.
@@ -454,16 +412,6 @@ Neewer 24×24 softbox dual kit 5500K $79
 Black tissue paper + gold foil custom stickers (StickerMule) 500 for $89
 130 lb matte black thank you cards with gold foil logo
 
-> **[VISUAL AID SPECIFICATION: THE UNBOXING LAYER CAKE]**
-> **Type:** Exploded View Diagram
-> **Purpose:** Standardize the customer opening experience.
-> **Top Layer:** Matte Black Poly Mailer (Exterior)
-> **Second Layer:** Shipping Label (Centered perfectly, no wrinkles)
-> **Third Layer:** Black Tissue Paper (Folded crisp, not crumpled)
-> **Fourth Layer:** Gold Foil Sticker (Sealing the tissue paper)
-> **Fifth Layer:** Thank You Card / Care Instructions (Placed ON TOP of pants, facing up)
-> **Bottom Layer:** The Pants (Folded in thirds, logo/tag visible)
-
 **Blank Pants Sources (2025 Best Prices)**
 Thrift bulk by pound ($1.20 to $2.20/lb NY/PA outlets)
 Alibaba OEM raw denim straight fit (100 pair MOQ $6.80 to $8.20 shipped)
@@ -540,14 +488,6 @@ Unwashed fabric has factory sizing (chemical coating) that prevents paint from b
 **Paint Mix:** 1:1 standard. For ultra premium feel use 1:1.2 (paint:medium) for extra flexibility at stress points.  
 
 **Application:** Stand 2.5 to 3.5 feet away from the garment. Use stiff chip brush for large dramatic splatters that create bold visual impact, Princeton Catalyst Polytip round size 10 for fine mist control that adds delicate detail layers.
-
-> **[VISUAL AID SPECIFICATION: SPLATTER GEOMETRY]**
-> **Type:** Side View Illustration
-> **Scene:** Artist standing at a table with pants laid flat.
-> **Zone A (12 inches / 1 ft):** Label "The Blob Zone." Result: Large, heavy drops. Risk of pooling. Use for deliberate focal points only.
-> **Zone B (30 inches / 2.5 ft):** Label "The Sweet Spot." Result: Defined, energetic splatters. 80% of work happens here.
-> **Zone C (48 inches / 4 ft):** Label "The Mist Zone." Result: Fine, dusty spray. Use for background texture and depth.
-> **Hand Position:** Show wrist locked, movement coming from the elbow for power and consistency.
 
 **Layering:** Allow minimum 20 minutes between colors for sharp edges. If you want colors to blend organically, apply second color within 5 to 10 minutes while first is still slightly wet.  
 
