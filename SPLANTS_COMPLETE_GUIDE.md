@@ -3137,6 +3137,80 @@ Use accounting software (QuickBooks Self-Employed $15/month or Wave free tier) t
 
 ## Section 4.1: Week-by-Week Execution Plan
 
+**ZERO-TO-LAUNCH ROADMAP (First 90 Days):**
+```
+═══════════════════════════════════════════════════════════════
+        FROM $0 TO PROFITABLE IN 12 WEEKS
+───────────────────────────────────────────────────────────────
+WEEK 1: FOUNDATION ($0-15 cost)
+┌────────────────────────────────────────┐
+│ Days 1-2: Asset inventory (closets)    │ → 8-10 blank pants
+│ Days 3-4: Digital setup (all free)     │ → Accounts created
+│ Days 5-7: First production (3-5 pairs) │ → Learning process
+└────────────────────────────────────────┘
+              ↓
+WEEK 2: FIRST SALES ($0 cost)
+┌────────────────────────────────────────┐
+│ Days 8-10: Local market test           │ → List on FB
+│ Days 11-12: Social media launch        │ → IG + TikTok
+│ Days 13-14: Partnership outreach       │ → Coffee shops
+└────────────────────────────────────────┘
+    Goal: $300-500 revenue ★ FIRST CASH
+              ↓
+WEEKS 3-4: FIRST REINVESTMENT ($200-300)
+┌────────────────────────────────────────┐
+│ • Buy proper supplies (medium, paints) │
+│ • Thrift 20 pairs in bulk              │
+│ • Professional product photos          │
+│ • Set up listing template              │
+└────────────────────────────────────────┘
+    Goal: 10-15 pairs produced
+              ↓
+MONTH 2-3: SYSTEM BUILDING ($500-800)
+┌────────────────────────────────────────┐
+│ • Heat press purchase ($250-300)       │ ⚡ Game changer
+│ • Photo setup (backdrop + lights)      │
+│ • Notion database structure            │
+│ • Content creation rhythm (2x/week)    │
+└────────────────────────────────────────┘
+    Goal: 30-50 pairs sold, $4,000-7,000 revenue
+              ↓
+MONTH 4-6: CHANNEL OPTIMIZATION
+┌────────────────────────────────────────┐
+│ • Instagram Reels 3x/week              │
+│ • Email list building (Klaviyo)        │
+│ • First automation (Zapier)            │
+│ • Customer testimonials/UGC            │
+└────────────────────────────────────────┘
+    Goal: 70-100 pairs sold, $10,000-15,000 revenue
+              ↓
+MONTH 7-12: SCALE & OPTIMIZE
+┌────────────────────────────────────────┐
+│ • Team expansion (1-2 people)          │
+│ • Pop-up events (monthly)              │
+│ • Advanced automation                  │
+│ • 1000+ documented pieces milestone    │
+└────────────────────────────────────────┘
+    Goal: $25,000+/month revenue by month 18
+
+CRITICAL MILESTONES TRACKER:
+───────────────────────────────────────────────────────────────
+☐ First 5 pairs created      (Week 1)
+☐ First sale                  (Week 2)  ★ Proof of concept
+☐ First $500 revenue          (Week 3)
+☐ Heat press purchased        (Month 2) ⚡ Unlock scale
+☐ 50 pairs sold cumulative    (Month 3)
+☐ First repeat customer       (Month 3)
+☐ 100 pairs sold cumulative   (Month 5)
+☐ $10K month achieved         (Month 8)
+☐ 1000 pieces documented      (Month 15) ★ Brand moat
+☐ $25K month achieved         (Month 18)
+
+⚡ KEY INSIGHT: Most quit in Weeks 1-4. Push through.
+   Real traction starts Month 3-4 after systems mature.
+═══════════════════════════════════════════════════════════════
+```
+
 ### Week 1: Foundation Without Spending
 
 **Day 1-2: Asset Inventory**
