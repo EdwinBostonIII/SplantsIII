@@ -440,28 +440,28 @@ Unwashed fabric has factory sizing (chemical coating) that prevents paint from b
 
 **Fabric Characteristics:**  
 - Heavy twill weave (10 to 16oz weight typical)  
-- Tight diagonal rib pattern  
-- Usually 100% cotton or 98% cotton / 2% spandex  
-- Highly absorbent  
-- Durable, rough texture  
-- Indigo dyed (fades over time creating desirable vintage effect)  
+- Tight diagonal rib pattern created by the twill construction  
+- Usually 100% cotton or 98% cotton / 2% spandex for modern comfort stretch  
+- Highly absorbent due to cotton's natural cellulose fiber structure  
+- Durable, rough texture that improves with age  
+- Indigo dyed (fades over time creating desirable vintage effect that customers seek)  
 
 **Paint Adhesion Properties:**  
-- Excellent adherence due to cotton fiber structure  
-- Slight texture provides mechanical grip  
-- Absorbs paint medium mixture well  
-- Can handle heavy paint coverage  
-- Minimal cracking risk if properly heat set  
+- Excellent adherence due to cotton fiber structure providing natural mechanical grip  
+- Slight texture provides additional mechanical anchor points for paint  
+- Absorbs paint medium mixture well, creating deep penetration into fiber structure  
+- Can handle heavy paint coverage without compromising fabric integrity  
+- Minimal cracking risk if properly heat set due to fabric's natural flexibility  
 
-**Paint Mix:** 1:1 standard. For ultra premium feel use 1:1.2 (paint:medium) for extra flexibility.  
+**Paint Mix:** 1:1 standard. For ultra premium feel use 1:1.2 (paint:medium) for extra flexibility at stress points.  
 
-**Application:** Stand 2.5 to 3.5 feet away. Use stiff chip brush for large dramatic splatters, Princeton Catalyst Polytip round size 10 for fine mist control.  
+**Application:** Stand 2.5 to 3.5 feet away from the garment. Use stiff chip brush for large dramatic splatters that create bold visual impact, Princeton Catalyst Polytip round size 10 for fine mist control that adds delicate detail layers.  
 
-**Layering:** Allow minimum 20 minutes between colors for sharp edges.  
+**Layering:** Allow minimum 20 minutes between colors for sharp edges. If you want colors to blend organically, apply second color within 5 to 10 minutes while first is still slightly wet.  
 
-**Heat Setting:** 375°F for 55 seconds per section with heat press.  
+**Heat Setting:** 375°F for 55 seconds per section with heat press. If using iron method, 4 minutes per section with firm consistent pressure.  
 
-**Expected Results:** Vibrant color retention, durable through 50+ wash cycles, slight texture from paint layer, fading of base denim over time (desirable vintage effect).
+**Expected Results:** Vibrant color retention through 50+ wash cycles, durable enough for daily wear, slight texture from paint layer adds tactile interest, fading of base denim over time creates vintage aesthetic that increases perceived value.
 
 **Coverage Recommendations:**
 - Light coverage: 20-30% of surface
@@ -519,63 +519,64 @@ For multi color work:
 ### Methodology 2: Cotton Chino / Khaki
 
 **Fabric Characteristics:**
-- Lightweight cotton twill (6-10oz weight)
-- Smooth, tight weave
-- Usually 97-98% cotton / 2-3% elastane for stretch
-- Less textured than denim
-- Typically solid colors (tan, olive, navy, black, grey)
-- More formal appearance than denim
+- Lightweight cotton twill (6 to 10oz weight compared to heavier denim)
+- Smooth, tight weave with minimal surface texture
+- Usually 97 to 98% cotton / 2 to 3% elastane for stretch and comfort
+- Less textured than denim, creating smoother paint application surface
+- Typically solid colors (tan, olive, navy, black, grey) that provide excellent contrast
+- More formal appearance than denim, appealing to different customer segment
 
 **Paint Adhesion Properties:**
-- Good adherence but requires priming for optimal results
-- Smoother surface means less mechanical grip
-- Lighter weight means paint can make fabric stiff if applied heavily
-- Shows color contrast beautifully (especially on lighter base colors)
+- Good adherence but requires careful technique for optimal results
+- Smoother surface means less mechanical grip compared to textured denim
+- Lighter weight means paint can make fabric stiff if applied too heavily
+- Shows color contrast beautifully, especially on lighter base colors
+- Requires slightly different paint ratio for flexibility
 
 **Specific Methodology:**
 
-**Pre-Treatment (Recommended for Chinos):**
-Before standard pre wash, consider priming step for maximum adhesion:
-- Mix 1 part white acrylic gesso : 3 parts water
-- Lightly mist onto areas that will receive heavy paint
-- Allow to dry completely
-- Then proceed with standard pre wash
-- **Alternative:** Skip priming if using light-to-medium paint coverage
+**Pre Treatment (Recommended for Chinos):**
+Before standard pre wash, consider priming step for maximum adhesion on this smoother fabric:
+- Mix 1 part white acrylic gesso : 3 parts water in spray bottle
+- Lightly mist onto areas that will receive heavy paint coverage
+- Allow to dry completely (2 to 3 hours)
+- Then proceed with standard hot water pre wash
+- **Alternative:** Skip priming if using light to medium paint coverage (under 40%)
 
 **Paint Mix Ratio:**
-- 1:1.2 paint : medium (slightly more medium than denim)
-- Reason: Thinner fabric needs more flexibility
-- Consistency: Slightly thinner than heavy cream
+- 1:1.2 paint : medium (slightly more medium than denim requires)
+- Reason: Thinner fabric needs more flexibility to prevent stiffness
+- Consistency: Slightly thinner than heavy cream, flows more readily
 
 **Application Technique:**
-1. Lighter hand than denim (fabric is more delicate)
-2. Stand 2.5-3 feet away (farther than denim)
-3. Smaller, finer splatters work better aesthetically
-4. Avoid heavy accumulation in any one area
+1. Lighter hand than denim (fabric is more delicate and shows every mark)
+2. Stand 2.5 to 3 feet away (farther than denim to create finer splatter)
+3. Smaller, finer splatters work better aesthetically on this refined fabric
+4. Avoid heavy accumulation in any one area to prevent fabric stiffening
 
 **Coverage Recommendations:**
-- Light coverage: 15-25% (optimal for formal chinos)
-- Medium coverage: 30-50%
-- Heavy coverage: Not recommended (makes fabric stiff)
+- Light coverage: 15 to 25% (optimal for formal chinos maintaining professional appearance)
+- Medium coverage: 30 to 50% (balanced artistic statement)
+- Heavy coverage: Not recommended (makes fabric uncomfortably stiff)
 
 **Drying Protocol:**
-- Air dry flat 24-48 hours
-- Check for stiffness before heat setting
-- If too stiff: Paint mix had insufficient medium
+- Air dry flat 24 to 48 hours in well ventilated space
+- Check for stiffness before heat setting by gently flexing fabric
+- If too stiff: Paint mix had insufficient medium, note for future batches
 
 **Heat Setting Specifics for Chino:**
-- Temperature: 300-325°F (lower than denim due to finer weave)
-- Duration: 2-3 minutes per section with iron, 30-40 seconds with heat press
-- Use pressing cloth always (smoother fabric more prone to iron marks)
+- Temperature: 300 to 325°F (lower than denim due to finer weave and lighter weight)
+- Duration: 2 to 3 minutes per section with iron, 30 to 40 seconds with heat press
+- Use pressing cloth always (smoother fabric more prone to iron shine marks)
 
 **Expected Results:**
-- Crisp, defined splatters
-- Maintains some stiffness in painted areas (this is normal)
-- Bright color contrast against base fabric
-- Professional appearance
+- Crisp, defined splatters with sharp edges
+- Maintains some stiffness in painted areas (this is normal and expected)
+- Bright color contrast against base fabric creates striking visual effect
+- Professional appearance suitable for creative workplace environments
 
 **Style Notes:**
-Chinos splattered conservatively (15-30% coverage) can pass as business casual in creative industries. Market accordingly.
+Chinos splattered conservatively (15 to 30% coverage) can pass as business casual in creative industries. Market accordingly to professional customers seeking subtle artistic expression. Higher coverage (40 to 50%) positions as weekend wear or artistic statement pieces.
 
 **Material Cost per Pair:**
 - Thrifted chinos: $5-12
