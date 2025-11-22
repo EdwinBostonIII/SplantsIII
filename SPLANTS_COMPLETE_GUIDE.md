@@ -249,6 +249,42 @@ Signature: ★★★★★★ (avg $315 profit)
 
 ## Production Time Per Pair (With Experience)
 
+**PRODUCTION PIPELINE VISUALIZATION:**
+```
+═══════════════════════════════════════════════════════════════
+        SINGLE PAIR PRODUCTION FLOW (Solo Producer)
+───────────────────────────────────────────────────────────────
+START
+  │
+  ├─► [1] PRE-WASH & PREP ────────────► 8-12 min
+  │    │ Wash, dry, iron, insert board
+  │    ↓
+  ├─► [2] PAINTING ───────────────────► 45-90 min ⚡ LONGEST
+  │    │ Apply colors, dry between layers
+  │    ↓
+  ├─► [3] HEAT SETTING ───────────────► 8-12 min
+  │    │ Heat press or iron application
+  │    ↓
+  ├─► [4] PHOTOGRAPHY ────────────────► 15-25 min
+  │    │ 12 angles, lighting, editing
+  │    ↓
+  ├─► [5] LISTING CREATION ───────────► 10-15 min
+  │    │ Upload, describe, price, publish
+  │    ↓
+  └─► [6] PACK & SHIP (when sold) ────► 5-8 min
+       │ Package, label, hand to carrier
+       ↓
+     DONE: 91-162 min total per pair
+───────────────────────────────────────────────────────────────
+        TWO-PERSON TEAM OPTIMIZATION
+───────────────────────────────────────────────────────────────
+Person A focuses on: Painting (steps 1-2)
+Person B focuses on: Photography & Listing (steps 4-5)
+Both collaborate: Heat Setting & Shipping (steps 3, 6)
+Result: 74-126 min per pair (30-40% faster)
+═══════════════════════════════════════════════════════════════
+```
+
 | Production Stage | Time (Solo Producer) | Time (Two Person Team) | Notes |
 |------------------|---------------------|------------------------|-------|
 | Pre Wash and Prep | 8 to 12 min per pair | 5 to 8 min per pair | Batch 10 to 15 pairs for efficiency |
@@ -261,6 +297,49 @@ Signature: ★★★★★★ (avg $315 profit)
 **Total Time: 91 to 162 minutes per pair solo | 74 to 126 minutes per pair as team**
 
 ## Monthly Capacity Targets
+
+**CAPACITY GROWTH VISUALIZATION (Pairs Per Month):**
+```
+═══════════════════════════════════════════════════════════════
+TEAM SIZE COMPARISON OVER TIME
+
+Pairs/Month
+    400│                                           ┌─────────┐
+       │                                           │ TEAM 3  │
+    350│                                       ┌───┤ 380     │
+       │                                       │   └─────────┘
+    300│                                   ┌───┤
+       │                               ┌───┤   │
+    250│                           ┌───┤   │   │ ┌─────────┐
+       │                       ┌───┤   │   └───┤ │ TEAM 2  │
+    200│                   ┌───┤   │   └───────┤ │ 250     │
+       │               ┌───┤   │   └───────────┤ └─────────┘
+    150│           ┌───┤   │   └───────────────┤
+       │       ┌───┤   │   └───────────────────┤
+    100│   ┌───┤   │   └───────────────────────┤ ┌─────────┐
+       │   │   │   └───────────────────────────┤ │  SOLO   │
+     50│───┤   └───────────────────────────────┤ │  140    │
+       │   └───────────────────────────────────┘ └─────────┘
+      0└───┴────┴────┴────┴────┴────┴────┴────┴────────────►
+        Mo  Mo  Mo  Mo  Mo  Mo  Mo  Year  Year
+        1-3 4-6 7-9 10-12 13-15 16-18  2     2+
+
+REVENUE GROWTH (Monthly)
+$175K│                                           ⚡ Year 2+
+     │                                       ┌───────────────
+$150K│                                   ┌───┤  Team of 3
+     │                               ┌───┤   │  $170,800
+$125K│                           ┌───┤   │   │
+$100K│                       ┌───┤   │   │   │
+ $75K│                   ┌───┤   │   │   │   │
+ $50K│               ┌───┤   │   │   │   │   │
+ $25K│           ┌───┤   │   │   │   │   │   │
+  $0K└───────────┴───┴───┴───┴───┴───┴───┴───┴────────────►
+        Mo 1-3  Mo 4-6  Mo 7-12      Year 2+
+
+★ KEY INSIGHT: Team of 2-3 reaches $25K+/mo by Month 18
+═══════════════════════════════════════════════════════════════
+```
 
 | Experience Level | Pairs Per Month (Solo) | Pairs Per Month (Team of 2) | Pairs Per Month (Team of 3) | Revenue Potential |
 |------------------|------------------------|----------------------------|----------------------------|-------------------|
@@ -361,20 +440,125 @@ Signature: ★★★★★★ (avg $315 profit)
 
 # PART ZERO: IMMUTABLE FOUNDATIONS
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    ★ CRITICAL SECTION ★                      ║
+║          Read this part FIRST before any production          ║
+║         These laws determine success or failure              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 ## The Seven Laws That Govern This Business
 
-The following seven laws represent the essential physics of this business model, synthesizing principles from antifragile systems theory, lean manufacturing, and artisan craft economics. Adherence to these foundations fosters sustainable growth, as evidenced by successful teams reaching $25,000 monthly, while their systematic neglect consistently leads to commoditization and eventual failure.  
+The following seven laws represent the essential physics of this business model, synthesizing principles from antifragile systems theory, lean manufacturing, and artisan craft economics. Adherence to these foundations fosters sustainable growth, as evidenced by successful teams reaching $25,000 monthly, while their systematic neglect consistently leads to commoditization and eventual failure.
+
+**THE SEVEN LAWS - HIERARCHY & INTERDEPENDENCE:**
+```
+═══════════════════════════════════════════════════════════════
+                    THE FOUNDATION PYRAMID
+───────────────────────────────────────────────────────────────
+                        ┌──────────┐
+                        │  LAW 7   │ Value Density
+                        │ $300+/hr │ Maximization
+                        └────┬─────┘
+                    ┌────────┴────────┐
+                    │      LAW 6      │ Stigmergic
+                    │   Coordination  │ (Visual Signals)
+                    └────────┬────────┘
+                ┌────────────┴────────────┐
+                │        LAW 5            │ Three Path
+                │      Redundancy         │ Backup Systems
+                └────────────┬────────────┘
+            ┌────────────────┴────────────────┐
+            │           LAW 4                 │ Minimum Viable
+            │         Automation              │ Automation
+            └────────────────┬────────────────┘
+        ┌────────────────────┴────────────────────┐
+        │              LAW 3                      │ Antifragile
+        │        Grow From Stress                 │ Operations
+        └────────────────────┬────────────────────┘
+    ┌────────────────────────┴───────────────────────┐
+    │                  LAW 2                          │ Compound
+    │            Document Everything                  │ Documentation
+    └────────────────────────┬───────────────────────┘
+┌────────────────────────────┴──────────────────────────┐
+│                       LAW 1                            │ ★ FOUNDATION
+│              Genuine Scarcity                          │ Document each
+│         (Every piece is unique)                        │ piece created
+└────────────────────────────────────────────────────────┘
+
+IMPLEMENTATION ORDER (First 90 Days):
+Week 1-2:  Implement Law 1 (Start unique ID system)
+Week 3-4:  Implement Law 2 (Set up documentation stack)
+Month 2:   Implement Law 3 (Post-mortem protocol)
+Month 3:   Implement Law 4 (First templates)
+Month 4+:  Implement Laws 5, 6, 7 (Scale systems)
+
+⚠ WARNING: Skipping Law 1 or 2 = Commodity business = Race to bottom
+═══════════════════════════════════════════════════════════════
+```  
 
 ### Law 1: The Law of Genuine Scarcity
 
 In a world saturated with fast fashion uniformity, the only sustainable competitive advantage is provable uniqueness. By documenting every pair as irreplicably singular before it reaches the customer, you create a collectible asset class that transcends commodity clothing, transforming each piece into a specific moment in your artistic timeline that customers invest in emotionally and economically.
 
+**UNIQUE ID SYSTEM VISUALIZATION:**
+```
+═══════════════════════════════════════════════════════════════
+        EVERY PAIR GETS A PERMANENT UNIQUE ID
+───────────────────────────────────────────────────────────────
+FORMAT:  SPL-YYMMDD-###
+         │   │ │ │  │
+         │   │ │ │  └─► Sequential # (001-999)
+         │   │ │ └────► Day (01-31)
+         │   │ └──────► Month (01-12)
+         │   └────────► Year (25 = 2025)
+         └────────────► Brand prefix (SPLANTS)
+
+EXAMPLES:
+┌──────────────┬────────────────────────────────────┐
+│ SPL-251121-001 │ First pair on Nov 21, 2025      │
+│ SPL-251121-047 │ 47th pair on Nov 21, 2025       │
+│ SPL-260305-183 │ 183rd pair on March 5, 2026     │
+└──────────────┴────────────────────────────────────┘
+
+WHERE TO PLACE ID:
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│        INSIDE WAISTBAND (not visible)           │
+│   ┌───────────────────────────────────┐         │
+│   │  [Care Label]  SPL-251121-047  ◄──┼─── ID  │
+│   └───────────────────────────────────┘         │
+│        Written with permanent marker            │
+│        or printed label sewn in                 │
+│                                                 │
+└─────────────────────────────────────────────────┘
+
+12 REQUIRED PHOTOS PER PAIR:
+1. ☐ Front flat lay        7. ☐ Splatter close-up (dense)
+2. ☐ Back flat lay         8. ☐ Splatter close-up (light)
+3. ☐ Left side             9. ☐ ID tag visible
+4. ☐ Right side           10. ☐ Inside-out (bleed check)
+5. ☐ Front on model       11. ☐ Folded + packaged
+6. ☐ Back on model        12. ☐ In poly mailer w/label
+
+⚡ These 12 photos become:
+   → Listing images (sales conversion)
+   → Archive proof (brand authenticity)
+   → Marketing content (social media)
+   → Quality control (process improvement)
+═══════════════════════════════════════════════════════════════
+```
+
 **Implementation Protocol (2025 Standard):**
 
-- Minimum twelve high resolution photographs per pair: front flat lay, back flat lay, left side, right side, front styled on model, back styled on model, extreme close up of heaviest splatter zone, close up of lightest zone, interior waistband with unique ID tag visible, inside out detail showing bleed through control, folded packaging shot, final poly mailer with shipping label.
-- Unique identifier format: SPL YYMMDD ### (e.g., SPL 251121 047). Engrave or permanent marker this inside the waistband on the care label or directly on fabric.
-- Master database (Notion or Airtable) with fields: Identifier | Date Created | Base Pant Source | Fabric Composition | Paint Colors Used (exact ratios) | Coverage % | Splatter Style | Production Time | Sale Price | Customer Name/Email | Shipping Date | Post Purchase Feedback | Wash Test Result (if sample).
-- Public archive gallery on website (Carrd, Shopify, or custom domain) showing every single piece ever created in chronological order with identifier visible, as this gallery becomes a powerful marketing asset by proving authenticity and inviting customers to collect multiple pieces across your evolving timeline.
+- **Minimum twelve high resolution photographs per pair:** front flat lay, back flat lay, left side, right side, front styled on model, back styled on model, extreme close up of heaviest splatter zone, close up of lightest zone, interior waistband with unique ID tag visible, inside out detail showing bleed through control, folded packaging shot, final poly mailer with shipping label.
+
+- **Unique identifier format:** SPL YYMMDD ### (e.g., SPL 251121 047). Engrave or permanent marker this inside the waistband on the care label or directly on fabric.
+
+- **Master database (Notion or Airtable) with fields:** Identifier | Date Created | Base Pant Source | Fabric Composition | Paint Colors Used (exact ratios) | Coverage % | Splatter Style | Production Time | Sale Price | Customer Name/Email | Shipping Date | Post Purchase Feedback | Wash Test Result (if sample).
+
+- **Public archive gallery on website** (Carrd, Shopify, or custom domain) showing every single piece ever created in chronological order with identifier visible, as this gallery becomes a powerful marketing asset by proving authenticity and inviting customers to collect multiple pieces across your evolving timeline.
 
 **Why This Creates Insurmountable Advantage:**
 
@@ -399,13 +583,63 @@ At pair 300, you possess training material enabling new team members to reach 90
 
 The business grows stronger through stress rather than merely surviving it. By systematically metabolizing customer complaints, supply disruptions, and demand spikes into permanent capabilities, you transform every challenge into competitive advantage that compounds over time.
 
+**ANTIFRAGILE LEARNING CYCLE:**
+```
+═══════════════════════════════════════════════════════════════
+      TURN EVERY FAILURE INTO PERMANENT STRENGTH
+───────────────────────────────────────────────────────────────
+                    ┌─────────────┐
+                    │  PROBLEM    │
+                    │  OCCURS     │ ⚠ Crisis point
+                    └──────┬──────┘
+                           │
+                           ↓
+           ┌───────────────────────────────┐
+           │  IMMEDIATE RESPONSE           │
+           │  (Fix the customer issue)     │
+           └───────────────┬───────────────┘
+                           │
+                           ↓
+           ┌───────────────────────────────┐
+           │  POST-MORTEM (within 24hrs)   │ ★ CRITICAL
+           │  Answer 5 Questions:          │
+           │  1. What happened? (facts)    │
+           │  2. What was the cost?        │
+           │  3. What weakness exposed?    │
+           │  4. Smallest fix that works?  │
+           │  5. What advantage gained?    │
+           └───────────────┬───────────────┘
+                           │
+                           ↓
+           ┌───────────────────────────────┐
+           │  IMPLEMENT SYSTEM FIX         │
+           │  (Prevent entire category)    │
+           └───────────────┬───────────────┘
+                           │
+                           ↓
+           ┌───────────────────────────────┐
+           │  EXTRACT COMPETITIVE EDGE     │
+           │  (Market the capability)      │
+           └───────────────┬───────────────┘
+                           │
+                           ↓
+                    ┌──────────────┐
+                    │  STRONGER    │
+                    │  THAN BEFORE │ ⚡ Antifragile!
+                    └──────────────┘
+
+WITHOUT THIS SYSTEM → Problems repeat forever → Burnout
+WITH THIS SYSTEM → Each problem = Permanent improvement
+═══════════════════════════════════════════════════════════════
+```
+
 **Post Mortem Protocol (Conduct Within 24 Hours):**
 
-1. What happened? (Brutal facts only, no justification)
-2. What was the immediate financial/time/reputational cost?
-3. What deeper systemic weakness did this expose that we were previously blind to?
-4. What is the smallest possible change that eliminates this entire category of problem forever?
-5. What new capability or competitive advantage can we extract from this pain?
+1. **What happened?** (Brutal facts only, no justification)
+2. **What was the immediate financial/time/reputational cost?**
+3. **What deeper systemic weakness did this expose** that we were previously blind to?
+4. **What is the smallest possible change** that eliminates this entire category of problem forever?
+5. **What new capability or competitive advantage** can we extract from this pain?
 
 **Historical Examples From Actual Teams:**
 
@@ -430,12 +664,75 @@ Without this systematic learning protocol, the same problems recur indefinitely,
 
 Human hands create the art and relationships, while everything else progresses through systematic automation following the essential sequence: manual → documented → templated → automated. This approach ensures you automate excellence rather than mediocrity, as automation locks in whatever process existed before implementation.
 
+**AUTOMATION PROGRESSION PATH:**
+```
+═══════════════════════════════════════════════════════════════
+    THE FOUR-STAGE AUTOMATION JOURNEY (DO NOT SKIP STAGES)
+───────────────────────────────────────────────────────────────
+STAGE 1: MANUAL (Do it yourself, learn deeply)
+   ↓
+   │    Do task 50+ times
+   │    Notice patterns & variations
+   │    Understand edge cases
+   │    ⚠ NEVER automate before this
+   ↓
+STAGE 2: DOCUMENTED (Write down the process)
+   ↓
+   │    Create step-by-step guide
+   │    Screenshot examples
+   │    Note all decision points
+   │    ★ Now you can train others
+   ↓
+STAGE 3: TEMPLATED (Reusable structures)
+   ↓
+   │    Create copy-paste templates
+   │    Build Notion databases
+   │    Make Lightroom presets
+   │    ⚡ 50% time savings here
+   ↓
+STAGE 4: AUTOMATED (Technology does it)
+   ↓
+   │    Zapier workflows
+   │    Email sequences
+   │    Auto-inventory tracking
+   │    ⚡⚡ 90% time savings here
+   ↓
+   RESULT: Free time for art & strategy
+
+TIMELINE FOR DIFFERENT TASKS:
+───────────────────────────────────────────────────────────────
+Weeks 1-12 (Wave 1):  Templates & Presets
+  ☐ Notion listing templates
+  ☐ Customer reply templates
+  ☐ Lightroom photo presets
+  ☐ CapCut Reels templates
+
+Months 4-6 (Wave 2):  Integration Automation
+  ☐ Shopify → Gmail (order notifications)
+  ☐ Gmail → Notion (customer tracking)
+  ☐ Notion → Google Sheets (inventory)
+
+Months 7-12 (Wave 3): Marketing Automation
+  ☐ Klaviyo email flows
+  ☐ Instagram auto-DM sequences
+  ☐ Abandoned cart recovery
+
+Year 2+ (Wave 4):    AI Assistance
+  ☐ Custom GPT for product descriptions
+  ☐ AI-assisted customer service
+  ☐ Pricing recommendations
+═══════════════════════════════════════════════════════════════
+```
+
 **2025 Automation Priority Stack:**
 
-First Wave (Weeks 1 to 12): Notion templates for listings, customer replies, order tracking; Lightroom presets for photo editing; CapCut templates for Reels
-Second Wave (Months 4 to 6): Zapier connecting Shopify → Gmail → Notion → Google Sheets inventory tracker
-Third Wave (Months 7 to 12): Klaviyo flows for abandoned cart, post purchase, win back; ManyChat Instagram auto DM sequences
-Fourth Wave (Year 2+): Custom GPT trained on your entire Notion database for product descriptions, customer service drafts, pricing recommendations
+**First Wave (Weeks 1 to 12):** Notion templates for listings, customer replies, order tracking; Lightroom presets for photo editing; CapCut templates for Reels
+
+**Second Wave (Months 4 to 6):** Zapier connecting Shopify → Gmail → Notion → Google Sheets inventory tracker
+
+**Third Wave (Months 7 to 12):** Klaviyo flows for abandoned cart, post purchase, win back; ManyChat Instagram auto DM sequences
+
+**Fourth Wave (Year 2+):** Custom GPT trained on your entire Notion database for product descriptions, customer service drafts, pricing recommendations
 
 **Essential Guideline:** Automate nothing until you have personally executed the task manually at least fifty times and documented every variation, as automating an unrefined process locks in inefficiency permanently.
 
@@ -443,25 +740,69 @@ Fourth Wave (Year 2+): Custom GPT trained on your entire Notion database for pro
 
 Every critical dependency requires three independent, tested pathways to prevent single points of failure from threatening operations. This redundancy protects against supply disruptions, platform changes, and market shifts while creating negotiating leverage with suppliers.
 
+**TRIPLE REDUNDANCY SYSTEM:**
+```
+═══════════════════════════════════════════════════════════════
+     NEVER DEPEND ON A SINGLE SOURCE FOR ANYTHING CRITICAL
+───────────────────────────────────────────────────────────────
+    YOUR BUSINESS
+         │
+    ┌────┴────┬────────┬────────┐
+    │         │        │         │
+    ↓         ↓        ↓         ↓
+  PAINT    BLANKS  MARKETING  SHIPPING
+    │         │        │         │
+
+Each critical dependency needs 3 paths:
+───────────────────────────────────────────────────────────────
+PAINT SUPPLY (Example):
+  [1] PRIMARY   → Dick Blick (bulk, best price) ★ Use 80%
+  [2] SECONDARY → Amazon Prime (fast ship)      Use 15%
+  [3] TERTIARY  → Local Michaels (emergency)    Use 5%
+
+  ✓ If Path 1 fails → Instantly switch to Path 2
+  ✓ If Path 2 fails → Path 3 keeps you running
+  ✓ Never 100% dependent on anyone
+
+BLANK PANTS:
+  [1] PRIMARY   → Thrift bulk ($1.20-2.20/lb)  ★ 70% of pants
+  [2] SECONDARY → Alibaba MOQ 100 ($6.80/ea)     25% of pants
+  [3] TERTIARY  → FB Marketplace alerts           5% of pants
+
+MARKETING CHANNELS (Revenue Distribution):
+  [1] Instagram → 65% of sales  ★ Primary engine
+  [2] TikTok    → 25% of sales    Growth channel
+  [3] Pop-ups   → 10% of sales    High margin
+
+⚠ DANGER SIGNAL: If any single source = 90%+ → CREATE BACKUP NOW
+
+BENEFITS OF REDUNDANCY:
+  ★ Never run out of materials
+  ★ Negotiate better prices (you have options)
+  ★ Sleep better (no single point of failure)
+  ★ Platform changes don't kill you
+═══════════════════════════════════════════════════════════════
+```
+
 **2025 Redundancy Map:**
 
-Paint Supply:
+**Paint Supply:**
 
-1. Primary: Bulk Golden Fluids + GAC 900 from Dick Blick (best pricing with business account)
-2. Secondary: Liquitex Professional from Amazon Prime (identical performance, faster shipping)
-3. Tertiary: Local Michaels with 40% off coupon (emergency same day)
+1. **Primary:** Bulk Golden Fluids + GAC 900 from Dick Blick (best pricing with business account)
+2. **Secondary:** Liquitex Professional from Amazon Prime (identical performance, faster shipping)
+3. **Tertiary:** Local Michaels with 40% off coupon (emergency same day)
 
-Blank Pants:
+**Blank Pants:**
 
-1. Primary: Thrift outlet bulk by pound ($1.20 to $2.20/lb in NY/PA area)
-2. Secondary: Alibaba OEM raw denim (MOQ 100 pairs at $6.80 shipped)
-3. Tertiary: Customer supplied + local Facebook Marketplace alerts
+1. **Primary:** Thrift outlet bulk by pound ($1.20 to $2.20/lb in NY/PA area)
+2. **Secondary:** Alibaba OEM raw denim (MOQ 100 pairs at $6.80 shipped)
+3. **Tertiary:** Customer supplied + local Facebook Marketplace alerts
 
-Marketing Channels (2025 weights):
+**Marketing Channels (2025 weights):**
 
-1. Instagram Reels + Stories (65% of sales)
-2. TikTok organic + shop integration (25% of sales)
-3. NYC/Hudson Valley pop ups + gallery partnerships (10% + highest margin)
+1. **Instagram Reels + Stories** (65% of sales)
+2. **TikTok organic + shop integration** (25% of sales)
+3. **NYC/Hudson Valley pop ups + gallery partnerships** (10% + highest margin)
 
 ### Law 6: The Law of Stigmergic Coordination
 
