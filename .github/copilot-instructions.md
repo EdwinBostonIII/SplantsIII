@@ -339,23 +339,274 @@ Creating "similar" pairs without this level of documentation immediately commodi
 - Archive becomes the brand asset (unreplicable at scale)
 - Pricing power comes from provable uniqueness, not generic craft quality
 
-### Common Tasks
+### Common Tasks (Exhaustive Implementation Guides)
 
-**Adding new equipment/supplies:**
-- Include specific model names, 2025 pricing, where to purchase
-- Compare multiple options with pros/cons
-- Reference which production scale it's appropriate for
+**Adding New Equipment or Supplies:**
 
-**Documenting new processes:**
-- Start with exact step-by-step procedure
-- Add "Why This Matters" explanation
-- Include capacity metrics (pairs/hour)
-- Document failure modes and solutions
+*Full Documentation Template:*
+```
+## [Equipment/Supply Category Name]
 
-**Updating for new year/testing results:**
-- Preserve historical context (e.g., "2025 rankings after latest testing")
-- Update pricing and availability
-- Keep deprecated information if it explains decision evolution
+### [Specific Product] (2025 [Tier: Top Value / Premium / Budget])
+
+**Specifications:**
+- Model: [Exact model number/name]
+- Price: $XXX-XXX (as of [Month Year])
+- Vendor(s): [Primary], [Secondary], [Tertiary]
+- Technical specs: [Relevant measurements, power, capacity]
+
+**Why This Specific Product:**
+1. [Performance characteristic #1 with quantification]
+2. [Cost-effectiveness analysis]
+3. [Reliability/durability evidence]
+4. [Specific feature that solves production bottleneck]
+
+**Timing of Purchase:**
+- Optimal: [Month X-Y] when [revenue milestone] reached
+- Rationale: [Business logic for timing]
+- Capital requirement: $XXX
+- Expected ROI: [Payback in X weeks/months at Y production volume]
+
+**Capacity Impact:**
+- Before: [X units/hour or other metric]
+- After: [Y units/hour]
+- Improvement: [Z% increase]
+- Bottleneck resolution: [What constraint this removes]
+
+**Alternatives Analysis:**
+
+*Premium Alternative:*
+- Product: [Name] $XXX
+- Advantages: [What you gain]
+- Trade-offs: [Cost vs. benefit at scale]
+- When to upgrade: [Condition trigger]
+
+*Budget Alternative:*
+- Product: [Name] $XXX
+- Advantages: [Lower capital requirement]
+- Trade-offs: [Performance limitations]
+- Acceptable for: [Production volume/phase]
+
+*Emergency/Tertiary:*
+- Product: [Name] $XXX
+- Use case: [When primary unavailable]
+- Limitations: [Performance constraints]
+
+**Integration into Production System:**
+- Setup time: [Hours/days]
+- Learning curve: [Hours to proficiency]
+- Workspace requirements: [Space, power, ventilation]
+- Ongoing costs: [Maintenance, consumables]
+
+**Failure Mode:**
+- What breaks first: [Common failure point]
+- Warning signs: [How to detect impending failure]
+- Backup plan: [What to do when this fails]
+- Repair vs. replace: [Decision criteria]
+```
+
+*Example Application:*
+When adding photography lighting, don't write: \"Get some good lights for about $100.\"
+
+Instead write:
+```
+### Photography Lighting (2025 Top Value)
+
+**Neewer 24\u00d724 Softbox Dual Kit with 5500K Bulbs**
+
+**Specifications:**
+- Model: Neewer 24x24 inch Professional Softbox Continuous Lighting Kit
+- Price: $79 (Amazon Prime, as of November 2025)
+- Vendor(s): Amazon (Prime), Neewer Direct (+$8 shipping), B&H Photo ($84)
+- Technical specs: Two 24\u00d724 inch softboxes, 85W CFL 5500K daylight bulbs, adjustable light stands (26-86 inches), carrying case included
+
+**Why This Specific Product:**
+1. Consistent 5500K color temperature eliminates post-processing color correction (saves 2-3 minutes per 12-photo batch)
+2. Softbox diffusion prevents harsh shadows on fabric texture (critical for showing splatter detail)
+3. Dual-light setup allows 45\u00b0 positioning for even coverage (professional studio standard)
+4. Price point 60% below equivalent Profoto/Godox kits with 90% of performance for this application
+
+**Timing of Purchase:**
+- Optimal: Month 2-3 when photographing 50+ pairs/month
+- Rationale: Inconsistent natural light causes color matching issues and limits shooting windows to 10am-2pm. Artificial light enables evening batch photography sessions.
+- Capital requirement: $79 + $35 (seamless backdrop) = $114 total
+- Expected ROI: Saves 8-10 hours/month in re-shooting and editing time = $240-500/month value at $30-50/hour
+
+**Capacity Impact:**
+- Before: 12 pairs photographed in 90 minutes (natural light, midday only)
+- After: 12 pairs in 36 minutes (consistent lighting, any time of day)
+- Improvement: 60% time reduction + 10-hour daily shooting window extension
+- Bottleneck resolution: Removes weather/time-of-day dependency from production schedule
+```
+
+**Documenting New Processes:**
+
+*Complete Process Documentation Template:*
+```
+## [Process Name] ([Year] [Validation Status])
+
+### Overview
+[2-3 sentence description of what this process accomplishes and where it fits in production flow]
+
+### Prerequisites
+- Equipment: [List all required]
+- Materials: [List all consumables]
+- Prior steps completed: [Dependencies]
+- Skill level: [Beginner/Intermediate/Advanced]
+- Estimated proficiency timeline: [Hours of practice needed]
+
+### Step-by-Step Protocol
+
+**Preparation Phase:**
+1. [Setup step] ([timing])
+2. [Setup step] ([timing])
+
+**Execution Phase:**
+1. [Action step with precise measurements/parameters] ([timing])
+   - Critical: [Non-obvious detail that causes failure if missed]
+   - Verification: [How to confirm this step succeeded]
+2. [Continue for each step]
+
+**Quality Check Phase:**
+1. [Inspection criteria]
+2. [Pass/fail criteria with examples]
+
+**Cleanup/Completion Phase:**
+1. [Cleanup steps]
+
+**Total Time:**
+- First execution: [X minutes]
+- After 10 repetitions: [Y minutes]  
+- Expert level (50+ reps): [Z minutes]
+
+### Why This Matters (Underlying Logic)
+[Explain the causal mechanism or business reason]
+
+Example: \"This preparation phase removes factory sizing, a chemical coating on new fabric that prevents paint from bonding to cellulose fibers at molecular level. Skipping pre-wash results in paint delamination after 3-5 wash cycles regardless of heat-setting quality. The 15-minute investment prevents 100% of this failure mode.\"
+
+### Real Examples (Documented Outcomes)
+**Test Case 1: [Date/Team/Scenario]**
+- Configuration: [Specific parameters used]
+- Result: [Quantified outcome]
+- Time: [Actual duration]
+- Cost: [Actual expenditure]
+
+**Test Case 2: [Different scenario]**
+[Same structure]
+
+### Failure Modes and Solutions
+
+**Issue 1: [Common problem]**
+- Symptoms: [What you observe]
+- Root cause: [Why it happens]
+- Immediate fix: [Band-aid solution]
+- Permanent solution: [Process improvement]
+- Prevention: [How to avoid in future]
+
+**Issue 2: [Another problem]**
+[Same structure]
+
+### Capacity and Efficiency Metrics
+- Units per hour (proficient operator): [X]
+- Batch size optimization: [Y units per batch minimizes setup overhead]
+- Parallelization opportunity: [Can Z be done simultaneously?]
+- Labor efficiency: $[X]/hour output (at $[Y]/unit price and [Z] units/hour)
+
+### Integration with Antifragile Framework
+- Post-mortem protocol: [What to document when this fails]
+- Stress test: [How to intentionally break this to find limits]
+- Capability extraction: [What competitive advantage emerges from mastering this]
+
+### Related Processes
+- Upstream: [What must happen before this]
+- Downstream: [What depends on this completing]
+- Alternatives: [Other ways to achieve same outcome]
+```
+
+**Updating for New Year or Testing Results:**
+
+*Year Transition Protocol:*
+```
+When transitioning from 2025 → 2026 content:
+
+1. **Preserve Historical Context**
+   - Change: \"2025 Definitive Medium Rankings\" → \"2026 Definitive Medium Rankings (Updated from 2025)\"
+   - Add dated archive section: \"### Historical: 2025 Rankings\" (collapsed/indented)
+   - Explain: \"2026 testing revealed [new finding] that changes recommendation from [old] to [new]\"
+
+2. **Update Pricing with Date Stamps**
+   - Change: \"VEVOR Heat Press $289-319 (November 2025)\" → \"VEVOR Heat Press $304-339 (January 2026, +5% from 2025)\"
+   - Note market factors: \"Price increase due to [tariff/supply chain/demand]\"
+
+3. **Update Availability and Sources**
+   - If supplier changed: Document why old supplier no longer primary
+   - If product discontinued: Show replacement with migration path
+   - Example: \"Golden GAC 900 (2025 recommendation) replaced by Golden GAC 900 Series II (2026) with improved flexibility. Same mixing ratios apply. Original GAC 900 still acceptable if in stock.\"
+
+4. **Preserve Deprecated Information with Explanation**
+   - Don't delete old methods; demote them with reasoning
+   - Example:\n   ```\n   ### 2026 Heat Setting Method\n   [Current best practice]\n   \n   ### Deprecated: 2025 Iron Method\n   Historical context: Prior to heat press affordability, iron method was standard.\n   Why deprecated: 500% slower, inconsistent pressure distribution, operator fatigue.\n   When still acceptable: First 10-20 test pairs before equipment investment.\n   ```
+
+5. **Testing Result Integration**
+   When new testing invalidates prior claims:
+   \n   ```\n   ### [Subject] (After [Month Year] Testing)\n   \n   **Previous Understanding (Pre-[Month]):**\n   [What we thought before]\n   Based on: [Original test conditions]\n   \n   **New Finding ([Month Year]):**\n   [What testing revealed]\n   Test protocol: [How we discovered this]\n   Sample size: [N pairs tested]\n   Conclusion: [Updated recommendation]\n   \n   **Impact on Operations:**\n   - [Change #1 to procedure]\n   - [Change #2 to costs/timing]\n   - [Change #3 to quality expectations]\n   ```
+
+Example: \"After November 2025 Testing: Liquitex Professional Fabric Medium now performs identically to Golden GAC 900 in blind wash tests (100 hot cycles, no statistically significant difference in cracking or fading). Previous 2024 testing showed 15% lower performance, but formula was updated by manufacturer between test periods. Both now acceptable as co-primary recommendations. Liquitex advantage: 15-20% lower cost per ounce in 16 oz jars. Golden advantage: slightly better color clarity with metallics.\"
+```
+
+**Adding External Tool/Platform Integration:**
+
+*Digital Systems Documentation Template:*
+```
+### [Platform/Tool Name] (Role in Business System)
+
+**Purpose:** [One sentence: what business function this serves]
+
+**Integration Point:** [Where in workflow this lives]
+
+**Setup Requirements:**
+- Account type: [Free/Paid tier]
+- Cost: $X/month at [volume] (free until [threshold])
+- Technical requirements: [Browser/app/API access]
+- Data migration: [Import from where, if switching]
+
+**Configuration for Splants Operations:**
+
+*Database Structure:* (if applicable, e.g., Notion/Airtable)
+- Table 1: [Name] with fields: [Field1 (type)], [Field2 (type)]...
+  Purpose: [What this tracks]
+- Table 2: [Name] with fields...
+  Purpose: [What this tracks]
+- Relations: [How tables connect]
+
+*Automation Rules:* (if applicable, e.g., Zapier)
+- Trigger: [When X happens on Platform A]
+- Action: [Do Y on Platform B]
+- Example: \"New Shopify order → Create row in Google Sheet inventory tracker → Send confirmation email template → Add customer to Klaviyo segment\"
+
+**Daily/Weekly Usage:**
+- Who uses it: [Person A / Person B / Both]
+- Frequency: [X times per day / once per week]
+- Time per session: [Y minutes]
+- What gets entered: [Specific data points]
+
+**Data Retention and Backup:**
+- Export frequency: [Weekly/monthly]
+- Export format: [CSV/JSON/PDF]
+- Backup location: [Google Drive folder path]
+- Retention policy: [Keep forever / X years]
+
+**Brief Overview for Non-Technical Operators:**
+[2-3 sentences explaining what this tool does in plain language, avoiding jargon]
+
+Example for Notion: \"Notion is a flexible database and documentation platform. We use it as the central repository for all product records (every pair's photos, specs, and sales data), customer information, and production procedures. Think of it as a custom-built business operating system that lives in your browser.\"
+
+Example for Shopify: \"Shopify is the e-commerce platform that hosts our online store. When a customer buys a pair, Shopify processes payment, sends confirmation email, and adds the order to our fulfillment queue. It handles all the technical aspects of running an online store so we focus on making pants.\"
+
+**Common Issues and Solutions:**
+- Issue: [Typical problem]
+- Solution: [How to fix]
+```
 
 ### What This Repository IS NOT
 - Not executable software with builds/tests/deployments
