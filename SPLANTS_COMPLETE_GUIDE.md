@@ -1380,10 +1380,10 @@ Catalog what you already have:
 
 ### Week 2: First Sales Generation
 
-**Day 8-10: Local Market Testing**
+**Day 8 to 10: Local Market Testing**
 - Post pants on Facebook Marketplace (free)
-- Post in local buy/sell/trade groups
-- Price aggressively low for first sales ($75-95)
+- Post in local buy sell trade groups
+- Price aggressively low for first sales ($75 to 95)
 - Goal: Generate first $300-500 in revenue
 
 **Day 11-12: Social Media Launch**
@@ -1503,8 +1503,8 @@ Your first 10 customers are not about revenue. They're about learning and proof.
 
 **First Customer Strategy:**
 
-**Customer 1-3: Friends & Family (Deeply Discounted)**
-- Price: $75-100 (cost + small markup)
+**Customer 1 to 3: Friends & Family (Deeply Discounted)**
+- Price: $75 to 100 (cost + small markup)
 - Purpose: Practice entire customer experience
 - Request: Detailed honest feedback, permission to use photos
 - Learn: Packaging, shipping, communication flow
@@ -1521,8 +1521,8 @@ Your first 10 customers are not about revenue. They're about learning and proof.
 - Request: Detailed feedback on entire experience
 - Learn: What they value, what could improve
 
-**Post-Purchase Protocol for First 10:**
-Send follow-up email 7 days after delivery:
+**Post Purchase Protocol for First 10:**
+Send follow up email 7 days after delivery:
 "How's your Splants? We're still refining our process and your feedback is invaluable. Would you take 5 minutes to answer:
 1. How do they fit?
 2. Have you washed them yet? How did paint hold up?
@@ -1607,8 +1607,8 @@ Instagram algorithm changes kill your organic reach. Shopify raises fees. TikTok
 
 **Prevention:**
 - Email list building from day one (own your audience)
-- Multi-platform presence (don't depend on one)
-- Direct relationships (pop-ups, partnerships, word of mouth)
+- Multi platform presence (don't depend on one)
+- Direct relationships (pop ups, partnerships, word of mouth)
 - Website owned by you (not just Shopify store)
 
 **Response Plan:**
@@ -2126,6 +2126,116 @@ Use an air compressor with a fine nozzle to blast paint into a micro mist. Creat
 
 ### Technique 4: Metallic Overlay
 Apply gold or silver leaf paint *after* the main splatter has dried but *before* heat setting. Requires a 24 hour cure delay to ensure adhesion.
+
+---
+
+# APPENDIX D: THE COMMUNICATION CODEX (COPY PASTE SCRIPTS)
+
+Do not reinvent the wheel. Use these exact scripts to maintain professional tone and save mental energy.
+
+### Script 1: The "Order Received" Personal Note
+**Subject:** Your Splants are entering production (Order #{{Order Number}})
+
+"Hi {{Name}},
+
+Edwin here from the studio. I just saw your order come through for the {{Color}} pair.
+
+I want you to know that I've pulled the blank pants and they are currently in the prep queue. Because every single splatter is applied by hand, no two pairs are identical. Yours will be 100% unique to you.
+
+I'll send you another note with a photo when they are finished and heading to the heat press.
+
+Thank you for becoming part of the archive.
+
+Best,
+Edwin"
+
+### Script 2: The "Shipping" Hype Builder
+**Subject:** They are finished. (Tracking inside)
+
+"Hi {{Name}},
+
+Your pair (ID: SPL {{Date}} {{Number}}) is complete.
+
+I've attached the archive photo to this email so you can see them before they arrive. They came out with incredible texture—especially the {{Color}} detailing on the left leg.
+
+Tracking Number: {{Tracking}}
+
+They are currently en route. When you get them, the fabric might feel slightly stiff from the heat setting process. This is normal and disappears completely after the first wear.
+
+Enjoy the art.
+
+Best,
+Edwin"
+
+### Script 3: The "7 Day Check In" (The Review Generator)
+**Subject:** How are they fitting?
+
+"Hi {{Name}},
+
+It's been a week since your Splants arrived. I'm writing to check two things:
+
+1. How is the fit?
+2. Have you had a chance to wear them out yet?
+
+If you love them, a quick photo or tag on Instagram helps our studio more than you know. If anything isn't perfect, reply to this email directly and I will fix it personally.
+
+Best,
+Edwin"
+
+### Script 4: The "Crisis" Script (Mistake/Delay)
+**Subject:** Update regarding your order (Please Read)
+
+"Hi {{Name}},
+
+I'm writing to let you know there will be a 48 hour delay on your order.
+
+During the final quality check this morning, I noticed a small inconsistency in the heat setting on the hem. Rather than ship you something 99% perfect, I have decided to remake the pair entirely.
+
+I know you're excited to get them, and I apologize for the wait. I've upgraded your shipping to Priority at my expense to make up for the time.
+
+Thank you for your patience with the process.
+
+Best,
+Edwin"
+
+---
+
+# APPENDIX E: EQUIPMENT MAINTENANCE PROTOCOL
+
+Your tools are your capital. Neglect them and you burn cash.
+
+### 1. Brush Preservation (The Conditioner Hack)
+Acrylic paint destroys brushes if it dries in the ferrule (the metal part).
+- **Daily:** Rinse until water runs clear.
+- **Weekly:** Massage a pea sized drop of cheap hair conditioner into the bristles. Leave it in. Rinse before next use. This keeps synthetic bristles soft and prevents "brooming" (splaying out).
+
+### 2. Heat Press Platen Care
+- **Weekly:** Wipe the upper heat platen with a soft cloth and iron cleaner (EZ Off) while warm (not hot).
+- **Why:** Residue from fabric medium can build up, creating brown scorch marks on future white pants.
+- **Cover:** Always use a Teflon sheet. Replace the sheet every 3 months or when it develops creases.
+
+### 3. Squeeze Bottle Hygiene
+- **Problem:** Paint dries in the nozzle tip, causing "sputtering" instead of clean splatters.
+- **Protocol:** Keep a jar of water on the table. Store bottles upside down in the water when not actively flicking.
+- **End of Day:** Clear every nozzle with a paperclip. Cap tightly.
+
+### 4. Photography Backdrop Refresh
+- **Problem:** Seamless paper gets scuffed, stained, and dirty after 100 to 150 photo sessions.
+- **Solution:** Roll down 12 inches of fresh paper every 50 pairs photographed. Budget $35 every 4 to 5 months for new rolls.
+- **Why It Matters:** Dirty backgrounds lower perceived product value by 20 to 30% according to A/B tested listings.
+
+### 5. Workspace Deep Clean (Monthly Ritual)
+- **When:** Last Friday of every month.
+- **Duration:** 90 minutes.
+- **Tasks:**
+  - Scrub paint table with TSP (trisodium phosphate) to remove accumulated splatter buildup.
+  - Vacuum drying racks to eliminate dust that settles on wet paint.
+  - Reorganize paint bottles by color family for faster production flow.
+  - Test every heat press temperature zone with infrared thermometer ($25 on Amazon) to verify accuracy.
+  - Replace any frayed electrical cords immediately (fire hazard).
+
+**Why This Protocol Exists:**
+A clean, well maintained workspace signals professionalism to yourself and any visitors. It also prevents the subtle quality degradation that occurs when tools degrade slowly over time. The 90 minute monthly investment saves 10+ hours of rework from defects caused by dirty equipment.
 
 ---
 
