@@ -1009,36 +1009,36 @@ You're NOT producing in single pair batches. You batch for efficiency.
 - **Person A:** Solo location (production + admin)
 - **Person B & C:** Paired location (specialized roles)
 
-**Daily Capacity Model (8-Hour Work Day):**
+**Daily Capacity Model (8 Hour Work Day):**
 
 **Person A (Solo, Full Day):**
 - Morning: Production session (4 pairs painted)
-- Lunch + Heat-setting of morning batch (parallel process)
+- Lunch + Heat setting of morning batch (parallel process)
 - Afternoon: Photography + listing (morning batch) OR
 - Afternoon: Second production session (3 more pairs)
 - Admin/customer service: Interwoven during cure times
-- **Output: 4-7 pairs/day** depending on whether prioritizing creation or processing backlog
+- **Output: 4 to 7 pairs/day** depending on whether prioritizing creation or processing backlog
 
 **Person B (Paired Location, Full Day):**
 - Role: Primary Producer
-- Back-to-back production sessions
-- 8 hours = ~11-12 pairs painted
-- **Output: 11-12 pairs/day painted**
+- Back to back production sessions
+- 8 hours = approximately 11 to 12 pairs painted
+- **Output: 11 to 12 pairs/day painted**
 
 **Person C (Paired Location, Full Day):**
 - Role: Processing & Administration
 - Photographs previous day's production (12 pairs = 36 minutes)
-- Heat-sets previous day's production (12 pairs = 72 minutes)
+- Heat sets previous day's production (12 pairs = 72 minutes)
 - Lists previous day's production (12 pairs = 72 minutes)
 - Packages and ships current orders (assume 5 orders = 30 minutes)
 - Customer service and admin (remaining time)
 - **Output: Processes 12 pairs/day + handles all admin**
 
 **Combined Daily Capacity:**
-- Person A: 4-7 pairs painted
-- Person B: 11-12 pairs painted
+- Person A: 4 to 7 pairs painted
+- Person B: 11 to 12 pairs painted
 - Person C: Processes B's output + previous day's A output
-- **Sustainable Daily Output: 15-19 pairs completed** (all phases)
+- **Sustainable Daily Output: 15 to 19 pairs completed** (all phases)
 
 **Monthly Capacity (22 Working Days):**
 - Conservative: 15 pairs/day × 22 days = **330 pairs/month**
@@ -1046,7 +1046,7 @@ You're NOT producing in single pair batches. You batch for efficiency.
 
 **Annual Capacity (Year 1):**
 - Accounting for learning curve, sick days, holidays
-- Realistic: **3,300-3,800 pairs/year**
+- Realistic: **3,300 to 3,800 pairs/year**
 
 ### Capacity Optimization Milestones
 
@@ -1108,10 +1108,10 @@ In described 3-person setup, bottleneck is likely:
 ## Section 3.1: Hudson Falls Market Analysis
 
 **Geographic Context:**
-- Hudson Falls, NY population: ~7,400
+- Hudson Falls, NY population: approximately 7,400
 - Median household income: $62,237 (2023)
 - Median age: 43
-- Demographics: 92% white, working-class, manufacturing heritage
+- Demographics: 92% white, working class, manufacturing heritage
 - Located 1 hour from Albany, 2 hours from NYC
 
 **Brutal Market Reality:**
@@ -1119,15 +1119,15 @@ Hudson Falls is NOT your customer base. This is critical to understand.
 
 **Why Hudson Falls Won't Support This Business:**
 
-1. **Income Constraints:** Median household income of $62k cannot support $175-295 painted pants at scale
-2. **Demographic Mismatch:** Working-class town with conservative fashion sensibilities
-3. **Market Size:** 7,400 people total, perhaps 1,500 in target age range (25-45), perhaps 5% interested in artistic clothing = 75 potential customers maximum
-4. **Fashion Adoption Curve:** Small towns lag coastal urban fashion by 2-3 years minimum
+1. **Income Constraints:** Median household income of $62k cannot support $175 to $295 painted pants at scale
+2. **Demographic Mismatch:** Working class town with conservative fashion sensibilities
+3. **Market Size:** 7,400 people total, perhaps 1,500 in target age range (25 to 45), perhaps 5% interested in artistic clothing = 75 potential customers maximum
+4. **Fashion Adoption Curve:** Small towns lag coastal urban fashion by 2 to 3 years minimum
 
 **Local Market Realistic Assessment:**
-- Possible local customers: 20-50 total
+- Possible local customers: 20 to 50 total
 - Repeat purchase rate: 10% annually
-- Local revenue potential: $3,500-8,750 per year maximum
+- Local revenue potential: $3,500 to $8,750 per year maximum
 - **Conclusion: Local market is testing ground only, not primary revenue source**
 
 ## Section 3.2: Your Actual Target Markets
@@ -1216,31 +1216,31 @@ Hudson Falls is NOT your customer base. This is critical to understand.
 
 **Tier System (Balances Accessibility with Profit):**
 
-**Tier 1: Archive Collection** ($175-195)
+**Tier 1: Archive Collection** ($175 to $195)
 - Pairs already created, available immediately
 - Customer picks from gallery
 - Lower blank cost (thrifted base)
-- Gross margin: 67-72%
+- Gross margin: 67 to 72%
 - Volume driver
 
-**Tier 2: Guided Custom** ($215-245)
+**Tier 2: Guided Custom** ($215 to $245)
 - Customer specifies preferences
-- Standard turnaround (7-10 days)
+- Standard turnaround (7 to 10 days)
 - You source appropriate blanks
-- Gross margin: 62-68%
+- Gross margin: 62 to 68%
 - Primary revenue generator
 
-**Tier 3: Premium Selection** ($265-295)
+**Tier 3: Premium Selection** ($265 to $295)
 - Premium blank pants (Levi's, Carhartt, designer brands)
 - Extra care in creation
 - Priority turnaround
-- Gross margin: 60-66%
+- Gross margin: 60 to 66%
 - Brand elevation
 
-**Tier 4: Customer-Supplied Custom** ($145-175)
+**Tier 4: Customer Supplied Custom** ($145 to $175)
 - Customer ships their pants
 - Your labor + materials only (no blank cost)
-- Gross margin: 75-82%
+- Gross margin: 75 to 82%
 - Highest margin, builds loyalty
 
 ### Revenue Modeling

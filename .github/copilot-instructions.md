@@ -88,14 +88,16 @@ This is a **knowledge base**, not executable code. When working with this conten
 
 ### Tone and Style
 - **Directive, not suggestive**: "Do X", not "You might consider X"
-- **Precise, not vague**: "45 55 seconds at 350°F" not "heat for a few minutes"
+- **Precise, not vague**: "45 to 55 seconds at 350°F" not "heat for a few minutes"
 - **Evidence-based**: "Tested across 5,000+ wash cycles" not "should work well"
 - **Systems-oriented**: Every action creates leverage or compounds over time
 - **Anti-fluff**: No motivational content, generic advice, or aspirational thinking
-- **Formatting Constraint**: Do not use em dashes or hyphens in the text. Use spaces or other punctuation instead.
+- **Explanatory with welcoming undertone**: Provide thorough context for why procedures exist without being overly enthusiastic or using emojis
+- **Comprehensive depth**: Every section should be expanded with complete explanations, verified against best available information
+- **Formatting Constraint (CRITICAL)**: Do not use em dashes or hyphens in the text. Use spaces, commas, or other punctuation instead. Write "heat setting" not "heat-setting", "pre wash" not "pre-wash", "3 to 5" not "3-5".
 
 ### External Systems
-- **Notion/Airtable/Shopify**: Provide only a brief overview of their function within the system. Do not provide extensive technical setup guides for these tools.
+- **Notion/Airtable/Shopify**: Provide only a brief overview of their function within the system. This is not a tech centered guide but rather a business/marketing/production guide. Do not provide extensive technical setup guides for these tools.
 
 ### Version Control
 - **No Version Tracking**: Do not add guidance on version tracking or changelogs. The document is the source of truth.
