@@ -325,7 +325,23 @@ Solo producer with optimized systems: $187/hour average across 40 hour week
 Two person team: $289/hour combined
 Three person team (production split): $426/hour combined
 
-These numbers represent actual achieved performance when the Seven Laws are followed systematically, demonstrating that the model works in practice rather than theory.  
+These numbers represent actual achieved performance when the Seven Laws are followed systematically, demonstrating that the model works in practice rather than theory.
+
+### Critical Consideration: Physical Sustainability
+
+High value density requires sustained energy output. The 7:00 AM to 5:00 PM schedule involves manual labor with heavy heat presses and repetitive motion. To prevent burnout, consider integrating a "Redundancy Day" into weekly planning: a day scheduled for production but deliberately left flexible to absorb spillover from low energy days or life emergencies. This buffer maintains consistency without requiring unsustainable intensity.
+
+### Discovery Log Template (Contributing to Collective Intelligence)
+
+The Seven Laws improve through application. When you discover refinements, failures, or optimizations, document them systematically:
+
+**Personal Discovery Log (Notion Template):**
+
+- Date | Discovery Type (Process Improvement/Failure Analysis/Cost Reduction/Quality Enhancement)
+- What Changed | Why It Matters | Quantified Impact (time saved/cost reduced/quality improved)
+- New Protocol | Would This Help Others? Y/N
+
+By maintaining this log, you transform daily operations into compound knowledge that accelerates team training and continuous improvement.
 
 ---
 
@@ -1908,6 +1924,10 @@ As volume exceeds 100 pairs per month, manual splatter becomes the bottleneck. T
 - **30% Laser Etched Base:** Use laser etching services to create "ghost splatter" patterns on denim blanks before painting. This provides a precise guide for the hand application, speeding up the process by 40% while adding a unique texture that paint alone cannot achieve.
 - **Price Point:** These hybrid "Ghost Splatter" collections command $375 to $495 due to the visible complexity of mixed media.
 
+### Critical Timing Consideration: Delay Hybrid Until Year 2
+
+While hybrid production offers compelling efficiency gains, it introduces third-party dependency that can disrupt operations. If the laser etching service experiences delays, your entire hybrid production line halts. Before introducing this complexity, ensure your manual splatter workflow operates with boring efficiency: consistent quality, predictable timelines, smooth fulfillment. Only after achieving operational mastery should you layer in external dependencies. Supply chain complexity compounds risk; defer it until core operations are antifragile.
+
 ---
 
 ## Section 3.5: Legal & Liability Structure (Manufacturing-Specific Considerations)
@@ -2860,6 +2880,12 @@ Gross profit per hour: $75
 - Customers willing to pay premium (maximize revenue when demand exists)
 - Portfolio diversity (showcases capability)
 - Custom commissions (customer dictates coverage, you charge appropriately)
+
+### Critical Consideration: Entry Tier Economics
+
+The Entry Tier often attracts customers for whom $89 represents a significant expenditure, potentially creating higher service demands while offering lower artistic satisfaction to makers. Monitor the "Headache to Revenue Ratio" closely during Month 3: track customer service time per tier, return rates, and revision requests.
+
+If Entry Tier customers require disproportionate support relative to revenue generated, consider raising the floor to $145. This filters interactions toward customers who value the work appropriately, allowing focus on higher margin tiers. Selling fewer pairs at sustainable margins often proves more profitable than high volume at entry pricing with elevated service costs.
 
 ### Scenario Planning: Survival Mode vs. Growth Mode
 
@@ -5058,6 +5084,26 @@ Use an air compressor with a fine nozzle to blast paint into a micro mist. Creat
 
 ### Technique 4: Metallic Overlay
 Apply gold or silver leaf paint *after* the main splatter has dried but *before* heat setting. Requires a 24 hour cure delay to ensure adhesion.
+
+## Splatter Synergy Matrix: Technique Optimization Guide
+
+This matrix synthesizes technique combinations with fabric types and value uplift, providing a decision framework that balances intuitive creation with analytical optimization.
+
+| Technique Combination | Best Fabric Types | Perceived Value Uplift | Production Time Add | Complexity Level |
+|----------------------|------------------|---------------------|-------------------|-----------------|
+| Gravity Drips + Metallic Overlay | 100% Cotton Denim, Canvas | +$95 to $125 | +45 min | Advanced |
+| Compressed Air Misting + Hand Splatter | Cotton/Poly Blends, Lightweight Denim | +$75 to $90 | +20 min | Intermediate |
+| Centrifugal Spin + Gravity Drips | Heavy Twill, Canvas | +$110 to $135 | +60 min | Advanced |
+| Metallic Overlay Only | All Cotton Types | +$65 to $85 | +30 min | Intermediate |
+| Compressed Air Base + Centrifugal Accent | Cotton Denim (all weights) | +$85 to $105 | +35 min | Intermediate |
+
+**Usage Guide:**
+
+- **Beginner (Months 1 to 3):** Focus on mastering single techniques before combining
+- **Intermediate (Months 4 to 8):** Introduce two-technique combinations on Standard and Premium tiers
+- **Advanced (Months 9+):** Layer three techniques on Signature tier for maximum differentiation
+
+**Strategic Application:** Use complexity to justify pricing. A $375 pair with Centrifugal Spin + Gravity Drips + Metallic Overlay demonstrates visible craft investment that customers recognize as warranting premium pricing.
 
 ---
 
