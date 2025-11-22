@@ -4393,6 +4393,78 @@ Marketing is not posting pretty pictures hoping someone buys. Marketing is a sys
 
 Customers buy stories, authenticity, proof of craft, and connection to the maker. Your competitive advantage is the documented proof of obsessive care, unique artistry, and permanent durability.
 
+**WEEKLY CONTENT CALENDAR (Minimum Viable Marketing):**
+```
+═══════════════════════════════════════════════════════════════
+    CREATE ONCE, POST EVERYWHERE - SYSTEMATIC APPROACH
+───────────────────────────────────────────────────────────────
+MONDAY: Production Process Content
+┌─────────────────────────────────────────────────────────┐
+│ Record: 3-5 min raw painting session                   │
+│ Edit:   15-45 sec Reel/TikTok (highlight best moments) │
+│ Post:   • Instagram Reel @ 10 AM                       │
+│         • TikTok @ 11 AM (slightly different edit)     │
+│         • Pinterest Pin @ 12 PM (still from video)     │
+│ Time:   60 min total (record 20 / edit 40)             │
+└─────────────────────────────────────────────────────────┘
+
+WEDNESDAY: Product Showcase
+┌─────────────────────────────────────────────────────────┐
+│ Shoot:  12 photos of completed pair (flat + styled)    │
+│ Edit:   Lightroom preset batch (5 min)                 │
+│ Post:   • Instagram carousel @ 2 PM                    │
+│         • Pinterest board @ 3 PM                       │
+│         • Facebook page @ 4 PM                         │
+│ Time:   45 min total (shoot 25 / edit 20)              │
+└─────────────────────────────────────────────────────────┘
+
+FRIDAY: Community Engagement / Behind-Scenes
+┌─────────────────────────────────────────────────────────┐
+│ Content:• Customer photo repost (with permission)      │
+│         • Workspace tour snippet                       │
+│         • "This vs That" comparison                    │
+│ Post:   • Instagram Story (3-5 frames) @ 6 PM          │
+│         • Engage with 20-30 relevant accounts          │
+│ Time:   30 min total                                   │
+└─────────────────────────────────────────────────────────┘
+
+SUNDAY: Educational Content
+┌─────────────────────────────────────────────────────────┐
+│ Content:• "How to wash painted pants" (value add)      │
+│         • "Why fabric medium matters" (expertise)      │
+│         • FAQ answered (builds trust)                  │
+│ Post:   • Instagram Reel @ 11 AM                       │
+│         • Save as Highlight for future reference       │
+│ Time:   45 min total                                   │
+└─────────────────────────────────────────────────────────┘
+
+TOTAL TIME INVESTMENT: ~3 hours/week
+TOTAL CONTENT PIECES: 12+ posts/week across platforms
+
+CONTENT REPURPOSING MATRIX:
+───────────────────────────────────────────────────────────────
+Single 3-min recording becomes:
+  → Instagram Reel (45 sec)
+  → TikTok video (30 sec, different edit)
+  → YouTube Short (60 sec with keyword title)
+  → Pinterest Pin (still frame + text overlay)
+  → Email newsletter image (monthly roundup)
+  → Website homepage banner (rotating gallery)
+
+⚡ EFFICIENCY HACK: Film 4 pairs in one session = 4 weeks content
+
+ENGAGEMENT TIME BLOCKS (Daily 15-minute bursts):
+───────────────────────────────────────────────────────────────
+Morning (8-9 AM):    Reply to DMs, respond to comments
+Midday (12-1 PM):    Engage with 10 similar accounts (like/comment)
+Evening (7-8 PM):    Check metrics, adjust next day's posting time
+
+★ GOLDEN RULE: Consistency > Perfection
+   3 "good enough" posts/week for 12 months
+   > 7 "perfect" posts/week for 3 months then burnout
+═══════════════════════════════════════════════════════════════
+```
+
 ### Category 1: Production Process Videos (Highest Engagement)
 
 Production process videos perform 4× better than styled product photos by providing handmade proof, entertainment value, customer education, and trust through transparency.
