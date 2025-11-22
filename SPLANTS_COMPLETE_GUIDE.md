@@ -3925,6 +3925,73 @@ Alternative scenario:
 
 **The Reality:** Customers are not always right, but how you handle their concerns determines whether they become advocates or detractors. This section provides exact decision frameworks for common (and uncommon) scenarios.
 
+**CUSTOMER SERVICE MASTER FLOWCHART:**
+```
+═══════════════════════════════════════════════════════════════
+         TURN COMPLAINTS INTO LOYALTY OPPORTUNITIES
+───────────────────────────────────────────────────────────────
+              CUSTOMER COMPLAINT RECEIVED
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ↓                ↓                ↓
+   FIT ISSUE      COLOR/COVERAGE    DAMAGE/DEFECT
+        │                │                │
+        ↓                ↓                ↓
+   ┌─────────┐     ┌──────────┐     ┌──────────┐
+   │ Did they│     │ Photos   │     │ Photos   │
+   │ check   │     │ accurate?│     │ show real│
+   │ measure?│     └────┬─────┘     │ defect?  │
+   └────┬────┘          │           └────┬─────┘
+        │          ┌────┴────┐           │
+    ┌───┴───┐      │         │       ┌───┴───┐
+    NO     YES    YES        NO      YES    NO
+    │       │      │         │        │      │
+    ↓       ↓      ↓         ↓        ↓      ↓
+  Exchange Partial Subject  Full    Full   Offer
+  (they   refund  prefer-  refund  refund  20% off
+   pay    50%    ence     +ship   +ship   keep it
+  ship)           issue    label   label
+
+RESPONSE TIME TARGETS:
+  • Inquiry received → First response: <2 hours
+  • Issue escalated → Resolution: <24 hours
+  • Refund processed → Money returned: <48 hours
+
+TONE RULES FOR ALL RESPONSES:
+  ✓ Empathetic opening ("I'm sorry this happened")
+  ✓ Acknowledge their feelings ("I understand your frustration")
+  ✓ Offer clear solution ("Here's what I'll do...")
+  ✓ End with gratitude ("Thank you for giving me a chance...")
+
+  ✗ Never defensive ("But I clearly stated...")
+  ✗ Never blame customer ("You should have read...")
+  ✗ Never delay ("I'll get back to you eventually...")
+
+REFUND DECISION MATRIX (When in doubt):
+───────────────────────────────────────────────────────────────
+Your fault (bad heat set, wrong item, etc.)
+  → FULL REFUND + return shipping + apology
+  → Cost: $150-200 | Long-term value: Prevents bad review
+
+Their fault (didn't read description, changed mind)
+  → Partial refund OR exchange (they pay shipping)
+  → Cost: $75-100 | Sets boundaries
+
+Unclear/subjective (they "don't like" the art)
+  → Offer choice: Return for refund OR 20-30% discount
+  → Cost: $40-150 | Shows flexibility without doormat
+
+Threatening/aggressive customer
+  → FULL REFUND immediately (eat the cost)
+  → Cost: $150-200 | Bad review costs MORE long-term
+
+⚡ GOLDEN RULE: One bad review = 50 lost potential customers
+   Math: Bad review visible forever vs. $200 refund one-time
+   → Nearly always worth refunding to protect reputation
+═══════════════════════════════════════════════════════════════
+```
+
 ### Issue 1: "These Don't Fit"
 
 **Scenario A: Customer provides zero information**
