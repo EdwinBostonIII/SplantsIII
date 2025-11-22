@@ -808,14 +808,84 @@ BENEFITS OF REDUNDANCY:
 
 Coordination happens through environmental signals rather than messages or meetings, significantly reducing executive function load and decision fatigue. By designing your workspace to visually communicate what needs doing next, you enable seamless coordination especially valuable for neurodivergent workflows.
 
+**STIGMERGIC WORKSPACE LAYOUT (Visual Signals System):**
+```
+═══════════════════════════════════════════════════════════════
+    PRODUCTION STUDIO FLOOR PLAN - SELF-ORGANIZING WORKFLOW
+───────────────────────────────────────────────────────────────
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [ZONE 1: PRE-WASH]     [ZONE 2: PAINTING STATION]      │
+│  ┌────────────┐         ┌──────────────────────┐        │
+│  │  Washer    │         │  6ft Table           │        │
+│  │  Dryer     │ ───────>│  + Splash Walls      │        │
+│  │  Rack      │         │  + Paint Supplies    │        │
+│  └────────────┘         └──────────────────────┘        │
+│   Signal: Empty         Signal: Empty table =           │
+│   rack = Need more      "Ready for next batch"          │
+│   blanks prepped                                        │
+│                                │                         │
+│                                ↓                         │
+│                    [ZONE 3: DRYING CATHEDRAL]           │
+│                    ┌──────────────────────┐             │
+│                    │  Simplehuman 3-tier  │             │
+│                    │  Gullwing racks      │             │
+│                    │  LED shop lights     │             │
+│                    └──────────────────────┘             │
+│                     Signal: Rack fullness               │
+│                     = Photo urgency                     │
+│                                │                         │
+│                                ↓                         │
+│  [ZONE 4: HEAT PRESS]   [ZONE 5: PHOTOGRAPHY]          │
+│  ┌────────────┐         ┌──────────────────────┐        │
+│  │  VEVOR     │<────────│  Backdrop + Lights   │        │
+│  │  Auto-Open │         │  Props + Stands      │        │
+│  │  Press     │         │  Editing Station     │        │
+│  └────────────┘         └──────────────────────┘        │
+│   Signal: "To Press"    Signal: Full bin =              │
+│   bin = Do now          "Batch photo time"              │
+│                                │                         │
+│                                ↓                         │
+│                    [ZONE 6: SHIPPING STATION]           │
+│                    ┌──────────────────────┐             │
+│                    │  Poly mailers        │             │
+│                    │  Packing materials   │             │
+│                    │  Label printer       │             │
+│                    └──────────────────────┘             │
+│                     Signal: Overflow =                  │
+│                     "STOP production, SHIP now"         │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+WORKFLOW SIGNALS (No meetings or messages needed):
+───────────────────────────────────────────────────────────────
+Empty washing rack     → Someone prep 10 more blanks
+Empty painting table   → Ready for next painting session
+Full drying racks      → Time to photograph (batch of 12+)
+Items in heat press bin→ Heat setting needed (priority)
+Full photo bin         → Batch photography session
+Overflow at shipping   → STOP all production, ship orders
+
+⚡ KEY BENEFIT: Anyone can walk in and know what to do next
+   by LOOKING at the space (no asking, no planning meetings)
+
+★ NEURODIVERGENT FRIENDLY: Visual cues > verbal coordination
+═══════════════════════════════════════════════════════════════
+```
+
 **2025 Physical Workspace Layout (Proven Optimal):**
 
-Zone 1: Pre wash station (washing machine + drying rack) → Empty rack signals "need more blanks prepped"
-Zone 2: Painting station (6 ft table with splash walls) → Empty table signals "ready for next batch"
-Zone 3: Drying cathedral (Simplehuman 3 tier + Honey Can Do Gullwing racks under LED shop lights) → Rack fullness signals photography urgency
-Zone 4: Heat press station with VEVOR Auto Open → Items in "to press" bin trigger immediate action
-Zone 5: Photography corner (permanent backdrop + Neewer lighting) → Full bin triggers batch photo session
-Zone 6: Shipping station → Overflow triggers "stop production, ship now"
+**Zone 1: Pre wash station** (washing machine + drying rack) → Empty rack signals "need more blanks prepped"
+
+**Zone 2: Painting station** (6 ft table with splash walls) → Empty table signals "ready for next batch"
+
+**Zone 3: Drying cathedral** (Simplehuman 3 tier + Honey Can Do Gullwing racks under LED shop lights) → Rack fullness signals photography urgency
+
+**Zone 4: Heat press station** with VEVOR Auto Open → Items in "to press" bin trigger immediate action
+
+**Zone 5: Photography corner** (permanent backdrop + Neewer lighting) → Full bin triggers batch photo session
+
+**Zone 6: Shipping station** → Overflow triggers "stop production, ship now"
 
 Digital systems mirror physical: Notion dashboard with Kanban boards that visually communicate when any stage is blocked, creating a seamless information flow.
 
@@ -855,13 +925,46 @@ By maintaining this log, you transform daily operations into compound knowledge 
 
 ---
 
-# PART ONE: TECHNICAL PRODUCTION FOUNDATIONS (2025 FINAL SPECIFICATIONS)  
+# PART ONE: TECHNICAL PRODUCTION FOUNDATIONS (2025 FINAL SPECIFICATIONS)
 
-## Section 1.1: The Science of Fabric Paint Adhesion  Updated November 2025  
+```
+╔══════════════════════════════════════════════════════════════╗
+║           ★ MASTER THESE BEFORE SELLING ANYTHING ★          ║
+║    Paint adhesion science + Heat setting + Fabric types     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+## Section 1.1: The Science of Fabric Paint Adhesion  Updated November 2025
 
 ### The Core Physics Problem
 
 Acrylic paint dries through water evaporation, leaving rigid polymer chains. Fabric flexes thousands of times per day. Rigid on flexible equals catastrophic failure. The solution is not "better paint." The solution is correct polymer chemistry plus heat induced cross linking.
+
+**THE ADHESION PROBLEM VISUALIZED:**
+```
+═══════════════════════════════════════════════════════════════
+         WHY REGULAR PAINT FAILS ON FABRIC
+───────────────────────────────────────────────────────────────
+WRONG WAY (Paint alone):
+   Paint Layer: ████████████ (RIGID)
+                    │
+   Fabric: ~~~~~~~~│~~~~~~~~ (FLEXIBLE)
+                    ↓
+   When fabric bends → Paint CRACKS ⚠
+
+RIGHT WAY (Paint + Medium + Heat):
+   Paint+Medium: ≈≈≈≈≈≈≈≈≈≈≈ (FLEXIBLE)
+                    ⊕ Heat bonds polymer to fibers
+   Fabric: ≈≈≈≈≈≈≈│≈≈≈≈≈≈≈≈ (INTEGRATED)
+                    ↓
+   When fabric bends → Paint FLEXES ✓
+
+THE MOLECULAR BOND:
+Before Heat Setting:          After Heat Setting:
+Paint ─ ─ ─ ─ Fabric         Paint ═══════ Fabric
+(weak surface bond)           (permanent chemical bond)
+═══════════════════════════════════════════════════════════════
+```
 
 ### The Essential System
 
@@ -1128,7 +1231,75 @@ This section provides text based visual references for identifying failure modes
 
 Not all pants are equal. Different fabric compositions require different approaches. This section provides hyper-detailed procedures for each fabric type.
 
-### Universal Pre Production Protocol  
+**FABRIC SELECTION DECISION TREE:**
+```
+═══════════════════════════════════════════════════════════════
+           WHICH FABRIC SHOULD YOU USE? (DECISION GUIDE)
+───────────────────────────────────────────────────────────────
+                    START: Got pants?
+                          │
+        ┌─────────────────┴─────────────────┐
+        │                                   │
+     Check fabric tag                   No tag? Feel test
+        │                                   │
+        ↓                                   ↓
+┌───────────────┐                   ┌───────────────┐
+│ Cotton content│                   │ Heavy & stiff │
+└───────┬───────┘                   │ = Canvas      │
+        │                           │ Smooth = Chino│
+   ┌────┼────┐                      │ Stretch = Skip│
+   ↓    ↓    ↓                      └───────────────┘
+100%  98%  <90%
+ │     │     │
+ ↓     ↓     ↓
+┌─────┬─────┬─────┬─────┬─────┬─────┐
+│DENIM│CHINO│CORD │CANV │POLY │SPNDX│
+└──┬──┴──┬──┴──┬──┴──┬──┴──┬──┴──┬──┘
+   │     │     │     │     │     │
+   ↓     ↓     ↓     ↓     ↓     ↓
+  ★★★   ★★    ★★   ★★★   ★    ⚠
+ BEST  GOOD  GOOD EXCEL AVD  SKIP
+
+RECOMMENDATIONS BY FABRIC TYPE:
+───────────────────────────────────────────────────────────────
+★★★ DENIM (100% cotton or 98/2 cotton/spandex)
+    → PRIMARY PRODUCT (70% of production)
+    → Easy to work with, durable, high demand
+    → Heat: 350-390°F | Mix: 1:1
+
+★★★ CANVAS (heavy cotton twill, work pants)
+    → PREMIUM PRODUCT (15% of production)
+    → Most durable, collectors love it
+    → Heat: 375-400°F | Mix: 1:0.8
+
+★★  CHINO (cotton twill, lighter weight)
+    → PROFESSIONAL LINE (10% of production)
+    → Business casual market
+    → Heat: 300-325°F | Mix: 1:1.2
+
+★★  CORDUROY (cotton with wales/ridges)
+    → SPECIALTY PRODUCT (5% of production)
+    → Unique texture, seasonal demand
+    → Heat: 300-325°F | Mix: 1:1
+
+★   POLY-COTTON BLENDS (<90% cotton)
+    → AVOID if possible, extra prep needed
+    → Requires primer coat, less durable
+    → Heat: 275-300°F | Mix: 1:1.5
+
+⚠   HIGH SPANDEX/STRETCH (>10% spandex)
+    → DECLINE 90% OF THESE
+    → Paint cracks at flex points
+    → Not worth the refund risk
+
+QUICK FABRIC ID TEST:
+Touch pants → Rigid & heavy = Canvas or Denim
+           → Smooth & light = Chino
+           → Super stretchy = SKIP
+═══════════════════════════════════════════════════════════════
+```
+
+### Universal Pre Production Protocol
 (Apply to ALL fabric types before painting)  
 
 **Step 1: Pre Wash**  
