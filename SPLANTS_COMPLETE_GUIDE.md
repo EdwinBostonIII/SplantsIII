@@ -1127,23 +1127,101 @@ Every new batch of paint/medium mix: paint three test swatches + one full pair �
 
 ### Verification of Proper Heat-Setting
 
+**WASH TEST DECISION FLOWCHART:**
+```
+═══════════════════════════════════════════════════════════════
+         ⚠ MANDATORY QUALITY CONTROL - NEVER SKIP THIS
+───────────────────────────────────────────────────────────────
+          Heat set batch of 20-30 pairs
+                    │
+                    ↓
+          Select 1 test pair from batch
+                    │
+                    ↓
+     Wash in hot water (130°F) + heavy detergent
+                    │
+                    ↓
+          Tumble dry on HIGH heat
+                    │
+                    ↓
+              INSPECT CAREFULLY
+     ┌──────────────┼──────────────┐
+     │                             │
+     ↓                             ↓
+  5-POINT CHECK:              PASS CRITERIA:
+  1. Cracking?                ✓ Zero cracks
+  2. Fading?                  ✓ <5% fade
+  3. Peeling?                 ✓ Zero peeling
+  4. Bleeding?                ✓ Zero bleeding
+  5. Stiffness?               ✓ Stays soft
+     │
+     ↓
+┌────┴────┐
+│ RESULT? │
+└────┬────┘
+     │
+  ┌──┴──┐
+  │     │
+  ↓     ↓
+PASS   FAIL
+  │     │
+  ↓     │
+REPEAT  │
+2 MORE  │
+TIMES   │
+  │     │
+  ↓     │
+STILL   │
+PASS?   │
+  │     │
+┌─┴─┐   │
+│YES│  NO│
+└─┬─┘   │
+  │     │
+  ↓     ↓
+┌──────────────┐  ┌──────────────────┐
+│ ✓ APPROVED   │  │ ⚠ BATCH FAILED   │
+│ Sell batch   │  │ DO NOT SELL      │
+│ Continue     │  │ Troubleshoot:    │
+│ production   │  │ • Heat too low?  │
+└──────────────┘  │ • Time too short?│
+                  │ • Medium ratio?  │
+                  │ • Re-heat batch  │
+                  │ • Test again     │
+                  └──────────────────┘
+
+TESTING FREQUENCY SCHEDULE:
+───────────────────────────────────────────────────────────────
+Pairs 1-100:     Test EVERY batch (every 20-30 pairs)
+Pairs 101-300:   Test EVERY 3rd batch
+Pairs 300+:      Test quarterly (every 3 months)
+                 + anytime you change suppliers/techniques
+
+⚠ NEVER ship without wash testing when:
+  • New paint brand
+  • New fabric medium
+  • New fabric type
+  • New heat press or settings
+═══════════════════════════════════════════════════════════════
+```
+
 **The Wash Test Protocol:**
 After heat setting, before selling, test a representative sample:
 
-1. Select one pair from each batch (every 20-30 pairs)
-2. Wash in hot water (130°F/54°C) with heavy detergent
-3. Tumble dry on high heat
-4. Inspect for: cracking, peeling, fading, color bleeding
-5. Repeat wash test 3 times
-6. If passes: Batch approved for sale
-7. If fails: Revise heat setting protocol, test again
+1. **Select one pair from each batch** (every 20-30 pairs)
+2. **Wash in hot water** (130°F/54°C) with heavy detergent
+3. **Tumble dry on high heat**
+4. **Inspect for:** cracking, peeling, fading, color bleeding
+5. **Repeat wash test 3 times**
+6. **If passes:** Batch approved for sale
+7. **If fails:** Revise heat setting protocol, test again
 
 **Pass Criteria:**
-- Zero visible cracking
-- <5% perceived color fading
-- Zero peeling at edges
-- Zero color bleeding onto white fabric
-- Comfort maintained (not stiff)
+- **Zero visible cracking**
+- **<5% perceived color fading**
+- **Zero peeling at edges**
+- **Zero color bleeding** onto white fabric
+- **Comfort maintained** (not stiff)
 
 **Documentation:**
 - Photo of test pair before washing
